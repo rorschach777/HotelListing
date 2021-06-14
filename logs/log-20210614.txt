@@ -1,0 +1,709 @@
+2021-06-14 12:45:38.412.-04:00 [INF] Application is Starting
+2021-06-14 12:45:40.682.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-14 12:45:40.688.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-14 12:45:40.688.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-14 12:45:40.688.-04:00 [INF] Hosting environment: Development
+2021-06-14 12:45:40.688.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-14 12:45:41.956.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-14 12:45:42.065.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 111.3121ms
+2021-06-14 12:45:42.090.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-bundle.js - -
+2021-06-14 12:45:42.094.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui.css - -
+2021-06-14 12:45:42.165.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js - -
+2021-06-14 12:45:42.215.-04:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2021-06-14 12:45:42.215.-04:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2021-06-14 12:45:42.215.-04:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2021-06-14 12:45:42.216.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 126.8565ms
+2021-06-14 12:45:42.216.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 51.6748ms
+2021-06-14 12:45:42.216.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui.css - - - 200 142933 text/css 122.6645ms
+2021-06-14 12:45:42.387.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-14 12:45:42.456.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 68.5731ms
+2021-06-14 12:46:26.442.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/WeatherForecast - -
+2021-06-14 12:46:26.469.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.WeatherForecastController.Get (HotelListing)'
+2021-06-14 12:46:26.490.-04:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[HotelListing.WeatherForecast] Get() on controller HotelListing.Controllers.WeatherForecastController (HotelListing).
+2021-06-14 12:46:26.492.-04:00 [INF] Accessed Weather Forecast
+2021-06-14 12:46:26.497.-04:00 [INF] Executing ObjectResult, writing value of type 'HotelListing.WeatherForecast[]'.
+2021-06-14 12:46:26.514.-04:00 [INF] Executed action HotelListing.Controllers.WeatherForecastController.Get (HotelListing) in 19.0807ms
+2021-06-14 12:46:26.515.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.WeatherForecastController.Get (HotelListing)'
+2021-06-14 12:46:26.515.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/WeatherForecast - - - 200 - application/json;+charset=utf-8 72.5869ms
+2021-06-14 12:47:13.175.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/WeatherForecast - -
+2021-06-14 12:47:13.176.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.WeatherForecastController.Get (HotelListing)'
+2021-06-14 12:47:13.182.-04:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[HotelListing.WeatherForecast] Get() on controller HotelListing.Controllers.WeatherForecastController (HotelListing).
+2021-06-14 13:08:59.025.-04:00 [INF] Accessed Weather Forecast
+2021-06-14 13:08:59.101.-04:00 [INF] Executing ObjectResult, writing value of type 'HotelListing.WeatherForecast[]'.
+2021-06-14 13:08:59.102.-04:00 [INF] Executed action HotelListing.Controllers.WeatherForecastController.Get (HotelListing) in 1305890.9284ms
+2021-06-14 13:08:59.102.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.WeatherForecastController.Get (HotelListing)'
+2021-06-14 13:08:59.102.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/WeatherForecast - - - 200 - application/json;+charset=utf-8 1305897.6212ms
+2021-06-14 13:09:51.526.-04:00 [INF] Application is Starting
+2021-06-14 13:09:53.090.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-14 13:09:53.093.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-14 13:09:53.093.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-14 13:09:53.093.-04:00 [INF] Hosting environment: Development
+2021-06-14 13:09:53.093.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-14 13:09:54.304.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-14 13:09:54.394.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 92.3442ms
+2021-06-14 13:09:54.673.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-14 13:09:54.746.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 70.5211ms
+2021-06-14 13:10:19.909.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Country - -
+2021-06-14 13:10:19.946.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:10:19.975.-04:00 [INF] Route matched with {action = "GetCountries", controller = "Country"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCountries() on controller HotelListing.Controllers.CountryController (HotelListing).
+2021-06-14 13:10:19.982.-04:00 [INF] Executed action HotelListing.Controllers.CountryController.GetCountries (HotelListing) in 2.4876ms
+2021-06-14 13:10:19.984.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:10:19.987.-04:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'HotelListing.IRepository.IUnitOfWork' while attempting to activate 'HotelListing.Controllers.CountryController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method10(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-14 13:10:20.094.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Country - - - 500 - text/plain 185.1500ms
+2021-06-14 13:14:21.742.-04:00 [INF] Application is Starting
+2021-06-14 13:14:23.449.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-14 13:14:23.452.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-14 13:14:23.452.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-14 13:14:23.452.-04:00 [INF] Hosting environment: Development
+2021-06-14 13:14:23.452.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-14 13:14:24.682.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-14 13:14:24.783.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 103.8501ms
+2021-06-14 13:14:25.005.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-14 13:14:25.075.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 70.4150ms
+2021-06-14 13:16:16.733.-04:00 [INF] Application is Starting
+2021-06-14 13:16:18.421.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-14 13:16:18.425.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-14 13:16:18.425.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-14 13:16:18.425.-04:00 [INF] Hosting environment: Development
+2021-06-14 13:16:18.425.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-14 13:16:19.603.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-14 13:16:19.706.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 106.1235ms
+2021-06-14 13:16:19.937.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-14 13:16:20.010.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 73.3829ms
+2021-06-14 13:20:26.223.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Country - -
+2021-06-14 13:20:26.254.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:20:26.278.-04:00 [INF] Route matched with {action = "GetCountries", controller = "Country"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCountries() on controller HotelListing.Controllers.CountryController (HotelListing).
+2021-06-14 13:20:26.652.-04:00 [ERR] Something went wrong in the GetCountries
+System.NotImplementedException: The method or operation is not implemented.
+   at HotelListing.Repository.UnitOfWork.get_Countries() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Repository/UnitOfWork.cs:line 14
+   at HotelListing.Controllers.CountryController.GetCountries() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Controllers/CountryController.cs:line 32
+2021-06-14 13:20:26.723.-04:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-14 13:20:26.728.-04:00 [INF] Executed action HotelListing.Controllers.CountryController.GetCountries (HotelListing) in 445.2161ms
+2021-06-14 13:20:26.729.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:20:34.911.-04:00 [ERR] Connection id "0HM9FB0FQL71P", Request id "0HM9FB0FQL71P:00000002": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at HotelListing.Repository.UnitOfWork.Dispose() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Repository/UnitOfWork.cs:line 20
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.DisposeAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.Features.RequestServicesFeature.<DisposeAsync>g__Awaited|9_0(RequestServicesFeature servicesFeature, ValueTask vt)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.<FireOnCompleted>g__ProcessEvents|227_0(HttpProtocol protocol, Stack`1 events)
+2021-06-14 13:20:34.916.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Country - - - 500 - text/plain;+charset=utf-8 8692.5516ms
+2021-06-14 13:20:34.916.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Country - -
+2021-06-14 13:20:34.917.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:20:34.917.-04:00 [INF] Route matched with {action = "GetCountries", controller = "Country"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCountries() on controller HotelListing.Controllers.CountryController (HotelListing).
+2021-06-14 13:20:35.064.-04:00 [ERR] Something went wrong in the GetCountries
+System.NotImplementedException: The method or operation is not implemented.
+   at HotelListing.Repository.UnitOfWork.get_Countries() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Repository/UnitOfWork.cs:line 14
+   at HotelListing.Controllers.CountryController.GetCountries() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Controllers/CountryController.cs:line 32
+2021-06-14 13:20:35.064.-04:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-14 13:20:35.064.-04:00 [INF] Executed action HotelListing.Controllers.CountryController.GetCountries (HotelListing) in 146.9685ms
+2021-06-14 13:20:35.064.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:21:29.496.-04:00 [ERR] Connection id "0HM9FB0FQL71P", Request id "0HM9FB0FQL71P:00000003": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at HotelListing.Repository.UnitOfWork.Dispose() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Repository/UnitOfWork.cs:line 20
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.DisposeAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.Features.RequestServicesFeature.<DisposeAsync>g__Awaited|9_0(RequestServicesFeature servicesFeature, ValueTask vt)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.<FireOnCompleted>g__ProcessEvents|227_0(HttpProtocol protocol, Stack`1 events)
+2021-06-14 13:21:29.497.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Country - - - 500 - text/plain;+charset=utf-8 54579.3163ms
+2021-06-14 13:25:30.539.-04:00 [INF] Application is Starting
+2021-06-14 13:25:32.602.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-14 13:25:32.605.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-14 13:25:32.605.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-14 13:25:32.605.-04:00 [INF] Hosting environment: Development
+2021-06-14 13:25:32.605.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-14 13:25:33.887.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-14 13:25:33.992.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 107.1928ms
+2021-06-14 13:25:34.235.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-14 13:25:34.354.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 74.1022ms
+2021-06-14 13:25:44.641.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Country - -
+2021-06-14 13:25:44.672.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:25:44.701.-04:00 [INF] Route matched with {action = "GetCountries", controller = "Country"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCountries() on controller HotelListing.Controllers.CountryController (HotelListing).
+2021-06-14 13:25:45.100.-04:00 [ERR] Something went wrong in the GetCountries
+System.NotImplementedException: The method or operation is not implemented.
+   at HotelListing.Repository.UnitOfWork.get_Countries() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Repository/UnitOfWork.cs:line 14
+   at HotelListing.Controllers.CountryController.GetCountries() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Controllers/CountryController.cs:line 32
+2021-06-14 13:25:45.167.-04:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-14 13:25:45.172.-04:00 [INF] Executed action HotelListing.Controllers.CountryController.GetCountries (HotelListing) in 466.6417ms
+2021-06-14 13:25:45.173.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:25:52.513.-04:00 [ERR] Connection id "0HM9FB5KVS4HP", Request id "0HM9FB5KVS4HP:00000002": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at HotelListing.Repository.UnitOfWork.Dispose() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Repository/UnitOfWork.cs:line 20
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.DisposeAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.Features.RequestServicesFeature.<DisposeAsync>g__Awaited|9_0(RequestServicesFeature servicesFeature, ValueTask vt)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.<FireOnCompleted>g__ProcessEvents|227_0(HttpProtocol protocol, Stack`1 events)
+2021-06-14 13:25:52.517.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Country - - - 500 - text/plain;+charset=utf-8 7875.5108ms
+2021-06-14 13:27:15.373.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Country - -
+2021-06-14 13:27:15.376.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:27:15.377.-04:00 [INF] Route matched with {action = "GetCountries", controller = "Country"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCountries() on controller HotelListing.Controllers.CountryController (HotelListing).
+2021-06-14 13:27:15.577.-04:00 [ERR] Something went wrong in the GetCountries
+System.NotImplementedException: The method or operation is not implemented.
+   at HotelListing.Repository.UnitOfWork.get_Countries() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Repository/UnitOfWork.cs:line 14
+   at HotelListing.Controllers.CountryController.GetCountries() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Controllers/CountryController.cs:line 32
+2021-06-14 13:27:15.578.-04:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-14 13:27:15.578.-04:00 [INF] Executed action HotelListing.Controllers.CountryController.GetCountries (HotelListing) in 201.1572ms
+2021-06-14 13:27:15.578.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:27:25.742.-04:00 [ERR] Connection id "0HM9FB5KVS4HP", Request id "0HM9FB5KVS4HP:00000003": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at HotelListing.Repository.UnitOfWork.Dispose() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Repository/UnitOfWork.cs:line 20
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.DisposeAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.Features.RequestServicesFeature.<DisposeAsync>g__Awaited|9_0(RequestServicesFeature servicesFeature, ValueTask vt)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.<FireOnCompleted>g__ProcessEvents|227_0(HttpProtocol protocol, Stack`1 events)
+2021-06-14 13:27:25.742.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Country - - - 500 - text/plain;+charset=utf-8 10369.4567ms
+2021-06-14 13:29:50.806.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Country - -
+2021-06-14 13:29:50.806.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:29:50.806.-04:00 [INF] Route matched with {action = "GetCountries", controller = "Country"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCountries() on controller HotelListing.Controllers.CountryController (HotelListing).
+2021-06-14 13:29:50.952.-04:00 [ERR] Something went wrong in the GetCountries
+System.NotImplementedException: The method or operation is not implemented.
+   at HotelListing.Repository.UnitOfWork.get_Countries() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Repository/UnitOfWork.cs:line 14
+   at HotelListing.Controllers.CountryController.GetCountries() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Controllers/CountryController.cs:line 32
+2021-06-14 13:29:50.952.-04:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-14 13:29:50.952.-04:00 [INF] Executed action HotelListing.Controllers.CountryController.GetCountries (HotelListing) in 145.6595ms
+2021-06-14 13:29:50.952.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:30:46.943.-04:00 [ERR] Connection id "0HM9FB5KVS4HN", Request id "0HM9FB5KVS4HN:00000004": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at HotelListing.Repository.UnitOfWork.Dispose() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Repository/UnitOfWork.cs:line 20
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.DisposeAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.Features.RequestServicesFeature.<DisposeAsync>g__Awaited|9_0(RequestServicesFeature servicesFeature, ValueTask vt)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.<FireOnCompleted>g__ProcessEvents|227_0(HttpProtocol protocol, Stack`1 events)
+2021-06-14 13:30:46.968.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Country - - - 500 - text/plain;+charset=utf-8 56161.2304ms
+2021-06-14 13:32:49.514.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Country - -
+2021-06-14 13:32:49.515.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:32:49.515.-04:00 [INF] Route matched with {action = "GetCountries", controller = "Country"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCountries() on controller HotelListing.Controllers.CountryController (HotelListing).
+2021-06-14 13:32:49.667.-04:00 [ERR] Something went wrong in the GetCountries
+System.NotImplementedException: The method or operation is not implemented.
+   at HotelListing.Repository.UnitOfWork.get_Countries() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Repository/UnitOfWork.cs:line 14
+   at HotelListing.Controllers.CountryController.GetCountries() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Controllers/CountryController.cs:line 32
+2021-06-14 13:32:49.667.-04:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-14 13:32:49.667.-04:00 [INF] Executed action HotelListing.Controllers.CountryController.GetCountries (HotelListing) in 152.0998ms
+2021-06-14 13:32:49.668.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:32:53.747.-04:00 [ERR] Connection id "0HM9FB5KVS4HP", Request id "0HM9FB5KVS4HP:00000004": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at HotelListing.Repository.UnitOfWork.Dispose() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Repository/UnitOfWork.cs:line 20
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.DisposeAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.Features.RequestServicesFeature.<DisposeAsync>g__Awaited|9_0(RequestServicesFeature servicesFeature, ValueTask vt)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.<FireOnCompleted>g__ProcessEvents|227_0(HttpProtocol protocol, Stack`1 events)
+2021-06-14 13:32:53.747.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Country - - - 500 - text/plain;+charset=utf-8 4233.0007ms
+2021-06-14 13:33:41.897.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Country - -
+2021-06-14 13:33:41.898.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:33:41.898.-04:00 [INF] Route matched with {action = "GetCountries", controller = "Country"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCountries() on controller HotelListing.Controllers.CountryController (HotelListing).
+2021-06-14 13:33:42.052.-04:00 [ERR] Something went wrong in the GetCountries
+System.NotImplementedException: The method or operation is not implemented.
+   at HotelListing.Repository.UnitOfWork.get_Countries() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Repository/UnitOfWork.cs:line 14
+   at HotelListing.Controllers.CountryController.GetCountries() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Controllers/CountryController.cs:line 32
+2021-06-14 13:33:42.053.-04:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-14 13:33:42.053.-04:00 [INF] Executed action HotelListing.Controllers.CountryController.GetCountries (HotelListing) in 154.8863ms
+2021-06-14 13:33:42.053.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:33:46.622.-04:00 [ERR] Connection id "0HM9FB5KVS4HP", Request id "0HM9FB5KVS4HP:00000005": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at HotelListing.Repository.UnitOfWork.Dispose() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Repository/UnitOfWork.cs:line 20
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.DisposeAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.Features.RequestServicesFeature.<DisposeAsync>g__Awaited|9_0(RequestServicesFeature servicesFeature, ValueTask vt)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.<FireOnCompleted>g__ProcessEvents|227_0(HttpProtocol protocol, Stack`1 events)
+2021-06-14 13:33:46.623.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Country - - - 500 - text/plain;+charset=utf-8 4725.2264ms
+2021-06-14 13:34:33.047.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Country - -
+2021-06-14 13:34:33.050.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:34:33.050.-04:00 [INF] Route matched with {action = "GetCountries", controller = "Country"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCountries() on controller HotelListing.Controllers.CountryController (HotelListing).
+2021-06-14 13:34:33.203.-04:00 [ERR] Something went wrong in the GetCountries
+System.NotImplementedException: The method or operation is not implemented.
+   at HotelListing.Repository.UnitOfWork.get_Countries() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Repository/UnitOfWork.cs:line 14
+   at HotelListing.Controllers.CountryController.GetCountries() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Controllers/CountryController.cs:line 32
+2021-06-14 13:34:33.204.-04:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-14 13:34:33.204.-04:00 [INF] Executed action HotelListing.Controllers.CountryController.GetCountries (HotelListing) in 153.6334ms
+2021-06-14 13:34:33.204.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:35:56.023.-04:00 [ERR] Connection id "0HM9FB5KVS4HN", Request id "0HM9FB5KVS4HN:00000005": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at HotelListing.Repository.UnitOfWork.Dispose() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Repository/UnitOfWork.cs:line 20
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.DisposeAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.Features.RequestServicesFeature.<DisposeAsync>g__Awaited|9_0(RequestServicesFeature servicesFeature, ValueTask vt)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.<FireOnCompleted>g__ProcessEvents|227_0(HttpProtocol protocol, Stack`1 events)
+2021-06-14 13:35:56.024.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Country - - - 500 - text/plain;+charset=utf-8 82974.1205ms
+2021-06-14 13:39:39.534.-04:00 [INF] Application is Starting
+2021-06-14 13:39:41.170.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-14 13:39:41.174.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-14 13:39:41.174.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-14 13:39:41.174.-04:00 [INF] Hosting environment: Development
+2021-06-14 13:39:41.174.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-14 13:39:42.493.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-14 13:39:42.585.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 94.9871ms
+2021-06-14 13:39:42.829.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-14 13:39:42.901.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 72.6455ms
+2021-06-14 13:40:02.283.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Country - -
+2021-06-14 13:40:02.313.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:40:02.337.-04:00 [INF] Route matched with {action = "GetCountries", controller = "Country"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCountries() on controller HotelListing.Controllers.CountryController (HotelListing).
+2021-06-14 13:40:02.767.-04:00 [ERR] Something went wrong in the GetCountries
+System.NotImplementedException: The method or operation is not implemented.
+   at HotelListing.Repository.UnitOfWork.get_Countries() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Repository/UnitOfWork.cs:line 14
+   at HotelListing.Controllers.CountryController.GetCountries() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Controllers/CountryController.cs:line 35
+2021-06-14 13:40:02.825.-04:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-14 13:40:02.830.-04:00 [INF] Executed action HotelListing.Controllers.CountryController.GetCountries (HotelListing) in 488.0545ms
+2021-06-14 13:40:02.831.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:40:09.194.-04:00 [ERR] Connection id "0HM9FBDHS62SQ", Request id "0HM9FBDHS62SQ:00000004": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at HotelListing.Repository.UnitOfWork.Dispose() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Repository/UnitOfWork.cs:line 20
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.DisposeAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.Features.RequestServicesFeature.<DisposeAsync>g__Awaited|9_0(RequestServicesFeature servicesFeature, ValueTask vt)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.<FireOnCompleted>g__ProcessEvents|227_0(HttpProtocol protocol, Stack`1 events)
+2021-06-14 13:40:09.197.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Country - - - 500 - text/plain;+charset=utf-8 6914.1406ms
+2021-06-14 13:44:40.156.-04:00 [INF] Application is Starting
+2021-06-14 13:44:41.874.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-14 13:44:41.879.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-14 13:44:41.880.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-14 13:44:41.880.-04:00 [INF] Hosting environment: Development
+2021-06-14 13:44:41.880.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-14 13:44:43.018.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-14 13:44:43.117.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 101.8150ms
+2021-06-14 13:44:43.343.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-14 13:44:43.412.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 68.9807ms
+2021-06-14 13:44:51.768.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Country - -
+2021-06-14 13:44:51.799.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:44:51.824.-04:00 [INF] Route matched with {action = "GetCountries", controller = "Country"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCountries() on controller HotelListing.Controllers.CountryController (HotelListing).
+2021-06-14 13:44:52.217.-04:00 [ERR] Something went wrong in the GetCountries
+System.NotImplementedException: The method or operation is not implemented.
+   at HotelListing.Repository.UnitOfWork.get_Countries() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Repository/UnitOfWork.cs:line 14
+   at HotelListing.Controllers.CountryController.GetCountries() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Controllers/CountryController.cs:line 35
+2021-06-14 13:44:52.274.-04:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-14 13:44:52.280.-04:00 [INF] Executed action HotelListing.Controllers.CountryController.GetCountries (HotelListing) in 450.2921ms
+2021-06-14 13:44:52.281.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:45:25.371.-04:00 [ERR] Connection id "0HM9FBGBFR55K", Request id "0HM9FBGBFR55K:00000004": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at HotelListing.Repository.UnitOfWork.Dispose() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Repository/UnitOfWork.cs:line 20
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.DisposeAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Http.Features.RequestServicesFeature.<DisposeAsync>g__Awaited|9_0(RequestServicesFeature servicesFeature, ValueTask vt)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.<FireOnCompleted>g__ProcessEvents|227_0(HttpProtocol protocol, Stack`1 events)
+2021-06-14 13:45:25.374.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Country - - - 500 - text/plain;+charset=utf-8 33605.8172ms
+2021-06-14 13:47:36.294.-04:00 [INF] Application is Starting
+2021-06-14 13:47:37.971.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-14 13:47:37.977.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-14 13:47:37.977.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-14 13:47:37.977.-04:00 [INF] Hosting environment: Development
+2021-06-14 13:47:37.977.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-14 13:47:39.121.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-14 13:47:39.219.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 100.5104ms
+2021-06-14 13:47:39.430.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-14 13:47:39.498.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 67.8523ms
+2021-06-14 13:47:44.104.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Country - -
+2021-06-14 13:47:44.137.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:47:44.165.-04:00 [INF] Route matched with {action = "GetCountries", controller = "Country"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCountries() on controller HotelListing.Controllers.CountryController (HotelListing).
+2021-06-14 13:47:45.025.-04:00 [INF] Entity Framework Core 5.0.5 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-14 13:47:45.773.-04:00 [INF] Executed DbCommand (41ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[ShortName]
+FROM [Countries] AS [c]
+2021-06-14 13:47:46.159.-04:00 [ERR] Something went wrong in the GetCountries
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at HotelListing.Controllers.CountryController.GetCountries() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Controllers/CountryController.cs:line 37
+2021-06-14 13:47:46.205.-04:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-14 13:47:46.210.-04:00 [INF] Executed action HotelListing.Controllers.CountryController.GetCountries (HotelListing) in 2040.7497ms
+2021-06-14 13:47:46.211.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:47:46.214.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Country - - - 500 - text/plain;+charset=utf-8 2110.7785ms
+2021-06-14 13:48:04.269.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Country - -
+2021-06-14 13:48:04.270.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:48:04.270.-04:00 [INF] Route matched with {action = "GetCountries", controller = "Country"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCountries() on controller HotelListing.Controllers.CountryController (HotelListing).
+2021-06-14 13:48:04.296.-04:00 [INF] Entity Framework Core 5.0.5 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-14 13:48:04.303.-04:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[ShortName]
+FROM [Countries] AS [c]
+2021-06-14 13:48:04.449.-04:00 [ERR] Something went wrong in the GetCountries
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at HotelListing.Controllers.CountryController.GetCountries() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Controllers/CountryController.cs:line 37
+2021-06-14 13:48:04.450.-04:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-14 13:48:04.450.-04:00 [INF] Executed action HotelListing.Controllers.CountryController.GetCountries (HotelListing) in 179.6224ms
+2021-06-14 13:48:04.450.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:48:04.450.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Country - - - 500 - text/plain;+charset=utf-8 181.6604ms
+2021-06-14 13:49:31.571.-04:00 [INF] Application is Starting
+2021-06-14 13:49:33.220.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-14 13:49:33.277.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-14 13:49:33.281.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-14 13:49:33.281.-04:00 [INF] Hosting environment: Development
+2021-06-14 13:49:33.281.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-14 13:49:34.398.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-14 13:49:34.497.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 101.7037ms
+2021-06-14 13:49:34.719.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-14 13:49:34.792.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 72.7116ms
+2021-06-14 13:49:42.236.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Country - -
+2021-06-14 13:49:42.266.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:49:42.290.-04:00 [INF] Route matched with {action = "GetCountries", controller = "Country"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCountries() on controller HotelListing.Controllers.CountryController (HotelListing).
+2021-06-14 13:49:43.011.-04:00 [INF] Entity Framework Core 5.0.5 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-14 13:49:43.621.-04:00 [INF] Executed DbCommand (33ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[ShortName]
+FROM [Countries] AS [c]
+2021-06-14 13:49:44.000.-04:00 [ERR] Something went wrong in the GetCountries
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at HotelListing.Controllers.CountryController.GetCountries() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Controllers/CountryController.cs:line 37
+2021-06-14 13:49:44.048.-04:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-14 13:49:44.053.-04:00 [INF] Executed action HotelListing.Controllers.CountryController.GetCountries (HotelListing) in 1759.0192ms
+2021-06-14 13:49:44.054.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:49:44.058.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Country - - - 500 - text/plain;+charset=utf-8 1822.4033ms
+2021-06-14 13:50:01.213.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Country - -
+2021-06-14 13:50:01.214.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:50:01.214.-04:00 [INF] Route matched with {action = "GetCountries", controller = "Country"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCountries() on controller HotelListing.Controllers.CountryController (HotelListing).
+2021-06-14 13:50:01.241.-04:00 [INF] Entity Framework Core 5.0.5 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-14 13:50:01.248.-04:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[ShortName]
+FROM [Countries] AS [c]
+2021-06-14 13:50:01.397.-04:00 [ERR] Something went wrong in the GetCountries
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at HotelListing.Controllers.CountryController.GetCountries() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Controllers/CountryController.cs:line 37
+2021-06-14 13:50:01.397.-04:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-14 13:50:01.397.-04:00 [INF] Executed action HotelListing.Controllers.CountryController.GetCountries (HotelListing) in 183.1418ms
+2021-06-14 13:50:01.397.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:50:01.397.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Country - - - 500 - text/plain;+charset=utf-8 184.9673ms
+2021-06-14 13:50:48.197.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Country - -
+2021-06-14 13:50:48.197.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:50:48.197.-04:00 [INF] Route matched with {action = "GetCountries", controller = "Country"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCountries() on controller HotelListing.Controllers.CountryController (HotelListing).
+2021-06-14 13:50:48.206.-04:00 [INF] Entity Framework Core 5.0.5 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-14 13:50:48.210.-04:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[ShortName]
+FROM [Countries] AS [c]
+2021-06-14 13:50:48.337.-04:00 [ERR] Something went wrong in the GetCountries
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at HotelListing.Controllers.CountryController.GetCountries() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Controllers/CountryController.cs:line 37
+2021-06-14 13:50:48.337.-04:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-14 13:50:48.337.-04:00 [INF] Executed action HotelListing.Controllers.CountryController.GetCountries (HotelListing) in 139.9323ms
+2021-06-14 13:50:48.337.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:50:48.338.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Country - - - 500 - text/plain;+charset=utf-8 140.8426ms
+2021-06-14 13:51:48.297.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/getCountries - -
+2021-06-14 13:51:48.297.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/getCountries - - - 404 0 - 0.4196ms
+2021-06-14 13:52:19.089.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Country - -
+2021-06-14 13:52:19.090.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:52:19.090.-04:00 [INF] Route matched with {action = "GetCountries", controller = "Country"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCountries() on controller HotelListing.Controllers.CountryController (HotelListing).
+2021-06-14 13:52:19.090.-04:00 [INF] Entity Framework Core 5.0.5 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-14 13:52:19.094.-04:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[ShortName]
+FROM [Countries] AS [c]
+2021-06-14 13:52:19.230.-04:00 [ERR] Something went wrong in the GetCountries
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at HotelListing.Controllers.CountryController.GetCountries() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Controllers/CountryController.cs:line 37
+2021-06-14 13:52:19.230.-04:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-14 13:52:19.231.-04:00 [INF] Executed action HotelListing.Controllers.CountryController.GetCountries (HotelListing) in 140.7322ms
+2021-06-14 13:52:19.231.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:52:19.234.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Country - - - 500 - text/plain;+charset=utf-8 145.4645ms
+2021-06-14 13:54:02.964.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Country - -
+2021-06-14 13:54:02.964.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:54:02.965.-04:00 [INF] Route matched with {action = "GetCountries", controller = "Country"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCountries() on controller HotelListing.Controllers.CountryController (HotelListing).
+2021-06-14 13:54:02.965.-04:00 [INF] Entity Framework Core 5.0.5 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-14 13:54:03.095.-04:00 [INF] Executed DbCommand (129ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[ShortName]
+FROM [Countries] AS [c]
+2021-06-14 13:54:03.254.-04:00 [ERR] Something went wrong in the GetCountries
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at HotelListing.Controllers.CountryController.GetCountries() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Controllers/CountryController.cs:line 37
+2021-06-14 13:54:03.254.-04:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-14 13:54:03.254.-04:00 [INF] Executed action HotelListing.Controllers.CountryController.GetCountries (HotelListing) in 289.5459ms
+2021-06-14 13:54:03.254.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:54:03.254.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Country - - - 500 - text/plain;+charset=utf-8 290.0531ms
+2021-06-14 13:54:12.728.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Country - -
+2021-06-14 13:54:12.728.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:54:12.729.-04:00 [INF] Route matched with {action = "GetCountries", controller = "Country"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCountries() on controller HotelListing.Controllers.CountryController (HotelListing).
+2021-06-14 13:54:12.729.-04:00 [INF] Entity Framework Core 5.0.5 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-14 13:54:12.757.-04:00 [INF] Executed DbCommand (27ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[ShortName]
+FROM [Countries] AS [c]
+2021-06-14 13:54:12.888.-04:00 [ERR] Something went wrong in the GetCountries
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at HotelListing.Controllers.CountryController.GetCountries() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Controllers/CountryController.cs:line 37
+2021-06-14 13:54:12.888.-04:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-14 13:54:12.888.-04:00 [INF] Executed action HotelListing.Controllers.CountryController.GetCountries (HotelListing) in 159.3665ms
+2021-06-14 13:54:12.888.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:54:12.888.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Country - - - 500 - text/plain;+charset=utf-8 160.5324ms
+2021-06-14 13:54:20.221.-04:00 [INF] Application is Starting
+2021-06-14 13:54:21.904.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-14 13:54:21.929.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-14 13:54:21.929.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-14 13:54:21.929.-04:00 [INF] Hosting environment: Development
+2021-06-14 13:54:21.929.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-14 13:54:23.079.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-14 13:54:23.173.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 96.4247ms
+2021-06-14 13:54:23.380.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-14 13:54:23.447.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 66.4467ms
+2021-06-14 13:54:35.709.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Country - -
+2021-06-14 13:54:35.741.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:54:35.766.-04:00 [INF] Route matched with {action = "GetCountries", controller = "Country"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCountries() on controller HotelListing.Controllers.CountryController (HotelListing).
+2021-06-14 13:54:36.596.-04:00 [INF] Entity Framework Core 5.0.5 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-14 13:54:37.255.-04:00 [INF] Executed DbCommand (40ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[ShortName]
+FROM [Countries] AS [c]
+2021-06-14 13:54:37.742.-04:00 [ERR] Something went wrong in the GetCountries
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at HotelListing.Controllers.CountryController.GetCountries() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Controllers/CountryController.cs:line 37
+2021-06-14 13:54:37.804.-04:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-14 13:54:37.810.-04:00 [INF] Executed action HotelListing.Controllers.CountryController.GetCountries (HotelListing) in 2039.2683ms
+2021-06-14 13:54:37.811.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:54:37.815.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Country - - - 500 - text/plain;+charset=utf-8 2106.4415ms
+2021-06-14 13:55:31.468.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/WeatherForecast - -
+2021-06-14 13:55:31.472.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.WeatherForecastController.Get (HotelListing)'
+2021-06-14 13:55:31.474.-04:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[HotelListing.WeatherForecast] Get() on controller HotelListing.Controllers.WeatherForecastController (HotelListing).
+2021-06-14 13:55:31.475.-04:00 [INF] Accessed Weather Forecast
+2021-06-14 13:55:31.477.-04:00 [INF] Executing ObjectResult, writing value of type 'HotelListing.WeatherForecast[]'.
+2021-06-14 13:55:31.648.-04:00 [INF] Executed action HotelListing.Controllers.WeatherForecastController.Get (HotelListing) in 174.3787ms
+2021-06-14 13:55:31.648.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.WeatherForecastController.Get (HotelListing)'
+2021-06-14 13:55:31.648.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/WeatherForecast - - - 200 505 application/json;+charset=utf-8 205.8056ms
+2021-06-14 13:58:09.925.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Country - -
+2021-06-14 13:58:09.927.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:58:09.927.-04:00 [INF] Route matched with {action = "GetCountries", controller = "Country"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCountries() on controller HotelListing.Controllers.CountryController (HotelListing).
+2021-06-14 13:58:10.008.-04:00 [INF] Entity Framework Core 5.0.5 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-14 13:58:10.015.-04:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[ShortName]
+FROM [Countries] AS [c]
+2021-06-14 13:58:10.158.-04:00 [ERR] Something went wrong in the GetCountries
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at HotelListing.Controllers.CountryController.GetCountries() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Controllers/CountryController.cs:line 37
+2021-06-14 13:58:10.158.-04:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-14 13:58:10.159.-04:00 [INF] Executed action HotelListing.Controllers.CountryController.GetCountries (HotelListing) in 231.6919ms
+2021-06-14 13:58:10.159.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:58:10.159.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Country - - - 500 - text/plain;+charset=utf-8 233.4410ms
+2021-06-14 13:58:27.586.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Country - -
+2021-06-14 13:58:27.586.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:58:27.586.-04:00 [INF] Route matched with {action = "GetCountries", controller = "Country"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCountries() on controller HotelListing.Controllers.CountryController (HotelListing).
+2021-06-14 13:58:27.595.-04:00 [INF] Entity Framework Core 5.0.5 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-14 13:58:27.624.-04:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[ShortName]
+FROM [Countries] AS [c]
+2021-06-14 13:58:27.755.-04:00 [ERR] Something went wrong in the GetCountries
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at HotelListing.Controllers.CountryController.GetCountries() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Controllers/CountryController.cs:line 37
+2021-06-14 13:58:27.755.-04:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-14 13:58:27.755.-04:00 [INF] Executed action HotelListing.Controllers.CountryController.GetCountries (HotelListing) in 169.4973ms
+2021-06-14 13:58:27.756.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:58:27.756.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Country - - - 500 - text/plain;+charset=utf-8 170.0185ms
+2021-06-14 13:58:34.491.-04:00 [INF] Request starting HTTP/1.1 POST https://localhost:5001/api/Country - 0
+2021-06-14 13:58:34.491.-04:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2021-06-14 13:58:34.491.-04:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2021-06-14 13:58:34.492.-04:00 [INF] Request finished HTTP/1.1 POST https://localhost:5001/api/Country - 0 - 405 0 - 0.4291ms
+2021-06-14 13:58:39.789.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Country - -
+2021-06-14 13:58:39.789.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:58:39.789.-04:00 [INF] Route matched with {action = "GetCountries", controller = "Country"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCountries() on controller HotelListing.Controllers.CountryController (HotelListing).
+2021-06-14 13:58:39.790.-04:00 [INF] Entity Framework Core 5.0.5 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-14 13:58:39.838.-04:00 [INF] Executed DbCommand (23ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[ShortName]
+FROM [Countries] AS [c]
+2021-06-14 13:58:39.973.-04:00 [ERR] Something went wrong in the GetCountries
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at HotelListing.Controllers.CountryController.GetCountries() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Controllers/CountryController.cs:line 37
+2021-06-14 13:58:39.973.-04:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-14 13:58:39.973.-04:00 [INF] Executed action HotelListing.Controllers.CountryController.GetCountries (HotelListing) in 184.1396ms
+2021-06-14 13:58:39.973.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 13:58:39.973.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Country - - - 500 - text/plain;+charset=utf-8 184.6730ms
+2021-06-14 14:05:01.307.-04:00 [INF] Application is Starting
+2021-06-14 14:05:02.884.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-14 14:05:02.890.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-14 14:05:02.890.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-14 14:05:02.890.-04:00 [INF] Hosting environment: Development
+2021-06-14 14:05:02.890.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-14 14:05:04.087.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-14 14:05:04.184.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 99.8886ms
+2021-06-14 14:05:04.404.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-14 14:05:04.476.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 71.5913ms
+2021-06-14 14:05:08.933.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Country - -
+2021-06-14 14:05:08.965.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 14:05:08.990.-04:00 [INF] Route matched with {action = "GetCountries", controller = "Country"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCountries() on controller HotelListing.Controllers.CountryController (HotelListing).
+2021-06-14 14:05:09.708.-04:00 [INF] Entity Framework Core 5.0.5 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-14 14:05:10.336.-04:00 [INF] Executed DbCommand (32ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[ShortName]
+FROM [Countries] AS [c]
+2021-06-14 14:05:10.711.-04:00 [ERR] Something went wrong in the GetCountries
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at HotelListing.Controllers.CountryController.GetCountries() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Controllers/CountryController.cs:line 37
+2021-06-14 14:05:10.756.-04:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-06-14 14:05:10.761.-04:00 [INF] Executed action HotelListing.Controllers.CountryController.GetCountries (HotelListing) in 1766.6752ms
+2021-06-14 14:05:10.762.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 14:05:10.766.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Country - - - 500 - text/plain;+charset=utf-8 1833.2993ms
+2021-06-14 14:08:24.547.-04:00 [INF] Application is Starting
+2021-06-14 14:08:26.175.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-14 14:08:26.178.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-14 14:08:26.179.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-14 14:08:26.179.-04:00 [INF] Hosting environment: Development
+2021-06-14 14:08:26.179.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-14 14:08:27.415.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-14 14:08:27.508.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 95.6627ms
+2021-06-14 14:08:27.717.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-14 14:08:27.785.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 68.1370ms
+2021-06-14 14:08:33.647.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Country - -
+2021-06-14 14:08:33.681.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 14:08:33.706.-04:00 [INF] Route matched with {action = "GetCountries", controller = "Country"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCountries() on controller HotelListing.Controllers.CountryController (HotelListing).
+2021-06-14 14:08:34.576.-04:00 [INF] Entity Framework Core 5.0.5 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-14 14:08:35.180.-04:00 [INF] Executed DbCommand (34ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[ShortName]
+FROM [Countries] AS [c]
+2021-06-14 14:08:35.233.-04:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[HotelListing.Models.CountryDTO, HotelListing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-06-14 14:08:35.364.-04:00 [INF] Executed action HotelListing.Controllers.CountryController.GetCountries (HotelListing) in 1653.5601ms
+2021-06-14 14:08:35.365.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 14:08:35.368.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Country - - - 200 173 application/json;+charset=utf-8 1721.2796ms
+2021-06-14 14:16:21.677.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Country - -
+2021-06-14 14:16:21.679.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 14:16:21.679.-04:00 [INF] Route matched with {action = "GetCountries", controller = "Country"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCountries() on controller HotelListing.Controllers.CountryController (HotelListing).
+2021-06-14 14:16:21.705.-04:00 [INF] Entity Framework Core 5.0.5 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-14 14:16:21.897.-04:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[ShortName]
+FROM [Countries] AS [c]
+2021-06-14 14:16:21.897.-04:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[HotelListing.Models.CountryDTO, HotelListing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-06-14 14:16:21.898.-04:00 [INF] Executed action HotelListing.Controllers.CountryController.GetCountries (HotelListing) in 218.3768ms
+2021-06-14 14:16:21.898.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.CountryController.GetCountries (HotelListing)'
+2021-06-14 14:16:21.898.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Country - - - 200 173 application/json;+charset=utf-8 220.2772ms
+2021-06-14 14:27:35.264.-04:00 [INF] Application is Starting
+2021-06-14 14:27:36.994.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-14 14:27:36.998.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-14 14:27:36.998.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-14 14:27:36.998.-04:00 [INF] Hosting environment: Development
+2021-06-14 14:27:36.998.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-14 14:27:38.196.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-14 14:27:38.299.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 105.1254ms
+2021-06-14 14:27:38.522.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-14 14:27:38.653.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 80.1034ms
+2021-06-14 14:28:17.229.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Country/1 - -
+2021-06-14 14:28:17.262.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.CountryController.GetCountry (HotelListing)'
+2021-06-14 14:28:17.303.-04:00 [INF] Route matched with {action = "GetCountry", controller = "Country"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCountry(Int32) on controller HotelListing.Controllers.CountryController (HotelListing).
+2021-06-14 14:28:18.229.-04:00 [INF] Entity Framework Core 5.0.5 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-14 14:28:19.010.-04:00 [INF] Executed DbCommand (51ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [t].[ShortName], [h].[Id], [h].[Address], [h].[CountryId], [h].[Name], [h].[Rating]
+FROM (
+    SELECT TOP(1) [c].[Id], [c].[Name], [c].[ShortName]
+    FROM [Countries] AS [c]
+    WHERE [c].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Hotels] AS [h] ON [t].[Id] = [h].[CountryId]
+ORDER BY [t].[Id], [h].[Id]
+2021-06-14 14:28:19.071.-04:00 [INF] Executing OkObjectResult, writing value of type 'HotelListing.Models.CountryDTO'.
+2021-06-14 14:28:19.198.-04:00 [INF] Executed action HotelListing.Controllers.CountryController.GetCountry (HotelListing) in 1891.1116ms
+2021-06-14 14:28:19.199.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.CountryController.GetCountry (HotelListing)'
+2021-06-14 14:28:19.202.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Country/1 - - - 200 111 application/json;+charset=utf-8 1973.2482ms
+2021-06-14 14:31:57.216.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Country/2 - -
+2021-06-14 14:31:57.217.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.CountryController.GetCountry (HotelListing)'
+2021-06-14 14:31:57.217.-04:00 [INF] Route matched with {action = "GetCountry", controller = "Country"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCountry(Int32) on controller HotelListing.Controllers.CountryController (HotelListing).
+2021-06-14 14:31:57.244.-04:00 [INF] Entity Framework Core 5.0.5 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-14 14:31:57.252.-04:00 [INF] Executed DbCommand (4ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [t].[ShortName], [h].[Id], [h].[Address], [h].[CountryId], [h].[Name], [h].[Rating]
+FROM (
+    SELECT TOP(1) [c].[Id], [c].[Name], [c].[ShortName]
+    FROM [Countries] AS [c]
+    WHERE [c].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Hotels] AS [h] ON [t].[Id] = [h].[CountryId]
+ORDER BY [t].[Id], [h].[Id]
+2021-06-14 14:31:57.252.-04:00 [INF] Executing OkObjectResult, writing value of type 'HotelListing.Models.CountryDTO'.
+2021-06-14 14:31:57.253.-04:00 [INF] Executed action HotelListing.Controllers.CountryController.GetCountry (HotelListing) in 35.6196ms
+2021-06-14 14:31:57.253.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.CountryController.GetCountry (HotelListing)'
+2021-06-14 14:31:57.253.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Country/2 - - - 200 97 application/json;+charset=utf-8 37.3823ms
+2021-06-14 14:55:52.510.-04:00 [INF] Application is Starting
+2021-06-14 14:55:54.223.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-14 14:55:54.226.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-14 14:55:54.227.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-14 14:55:54.227.-04:00 [INF] Hosting environment: Development
+2021-06-14 14:55:54.227.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-14 14:55:55.439.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-14 14:55:55.534.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 97.3610ms
+2021-06-14 14:55:55.779.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-14 14:55:55.911.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 109.4098ms
+2021-06-14 14:56:04.363.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Hotel - -
+2021-06-14 14:56:04.399.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.HotelController.GetHotels (HotelListing)'
+2021-06-14 14:56:04.425.-04:00 [INF] Route matched with {action = "GetHotels", controller = "Hotel"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetHotels() on controller HotelListing.Controllers.HotelController (HotelListing).
+2021-06-14 14:56:04.591.-04:00 [INF] Executed action HotelListing.Controllers.HotelController.GetHotels (HotelListing) in 160.5654ms
+2021-06-14 14:56:04.593.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.HotelController.GetHotels (HotelListing)'
+2021-06-14 14:56:04.596.-04:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'HotelListing.Controllers.HotelController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method10(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-14 14:56:04.693.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Hotel - - - 500 - text/plain 329.6746ms
+2021-06-14 14:57:06.859.-04:00 [INF] Application is Starting
+2021-06-14 14:57:08.659.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-14 14:57:08.662.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-14 14:57:08.662.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-14 14:57:08.662.-04:00 [INF] Hosting environment: Development
+2021-06-14 14:57:08.662.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-14 14:57:09.934.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-14 14:57:10.023.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 91.8282ms
+2021-06-14 14:57:10.324.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-14 14:57:10.408.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 84.2582ms
+2021-06-14 14:57:14.114.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Hotel - -
+2021-06-14 14:57:14.148.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.HotelController.GetHotels (HotelListing)'
+2021-06-14 14:57:14.174.-04:00 [INF] Route matched with {action = "GetHotels", controller = "Hotel"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetHotels() on controller HotelListing.Controllers.HotelController (HotelListing).
+2021-06-14 14:57:15.168.-04:00 [INF] Entity Framework Core 5.0.5 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-14 14:57:15.890.-04:00 [INF] Executed DbCommand (37ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [h].[Id], [h].[Address], [h].[CountryId], [h].[Name], [h].[Rating]
+FROM [Hotels] AS [h]
+2021-06-14 14:57:15.950.-04:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[HotelListing.Models.HotelDTO, HotelListing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-06-14 14:57:16.091.-04:00 [INF] Executed action HotelListing.Controllers.HotelController.GetHotels (HotelListing) in 1913.1887ms
+2021-06-14 14:57:16.092.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.HotelController.GetHotels (HotelListing)'
+2021-06-14 14:57:16.096.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Hotel - - - 200 198 application/json;+charset=utf-8 1982.3588ms
+2021-06-14 15:01:08.915.-04:00 [INF] Application is Starting
+2021-06-14 15:01:10.698.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-14 15:01:10.702.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-14 15:01:10.702.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-14 15:01:10.702.-04:00 [INF] Hosting environment: Development
+2021-06-14 15:01:10.702.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-14 15:01:11.942.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-14 15:01:12.036.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 95.8600ms
+2021-06-14 15:01:12.274.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-14 15:01:12.358.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 84.4050ms
+2021-06-14 15:01:21.204.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Hotel - -
+2021-06-14 15:01:21.237.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.HotelController.GetHotels (HotelListing)'
+2021-06-14 15:01:21.260.-04:00 [INF] Route matched with {action = "GetHotels", controller = "Hotel"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetHotels() on controller HotelListing.Controllers.HotelController (HotelListing).
+2021-06-14 15:01:22.235.-04:00 [INF] Entity Framework Core 5.0.5 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-14 15:01:22.910.-04:00 [INF] Executed DbCommand (33ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [h].[Id], [h].[Address], [h].[CountryId], [h].[Name], [h].[Rating]
+FROM [Hotels] AS [h]
+2021-06-14 15:01:22.966.-04:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[HotelListing.Models.HotelDTO, HotelListing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-06-14 15:01:23.110.-04:00 [INF] Executed action HotelListing.Controllers.HotelController.GetHotels (HotelListing) in 1844.9969ms
+2021-06-14 15:01:23.111.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.HotelController.GetHotels (HotelListing)'
+2021-06-14 15:01:23.115.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Hotel - - - 200 198 application/json;+charset=utf-8 1910.7076ms
+2021-06-14 15:01:39.124.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Hotel/3 - -
+2021-06-14 15:01:39.127.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.HotelController.GetHotel (HotelListing)'
+2021-06-14 15:01:39.138.-04:00 [INF] Route matched with {action = "GetHotel", controller = "Hotel"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetHotel(Int32) on controller HotelListing.Controllers.HotelController (HotelListing).
+2021-06-14 15:01:39.200.-04:00 [INF] Entity Framework Core 5.0.5 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-14 15:01:39.381.-04:00 [INF] Executed DbCommand (97ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [h].[Id], [h].[Address], [h].[CountryId], [h].[Name], [h].[Rating]
+FROM [Hotels] AS [h]
+WHERE [h].[Id] = @__id_0
+2021-06-14 15:01:39.386.-04:00 [INF] Executing OkObjectResult, writing value of type 'HotelListing.Models.HotelDTO'.
+2021-06-14 15:01:39.387.-04:00 [INF] Executed action HotelListing.Controllers.HotelController.GetHotel (HotelListing) in 248.2826ms
+2021-06-14 15:01:39.387.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.HotelController.GetHotel (HotelListing)'
+2021-06-14 15:01:39.387.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Hotel/3 - - - 200 58 application/json;+charset=utf-8 262.9077ms
+2021-06-14 15:05:15.252.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-14 15:05:15.258.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 6.5229ms
+2021-06-14 15:05:15.532.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-14 15:05:15.541.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 9.1756ms
+2021-06-14 15:05:15.542.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/favicon-32x32.png - -
+2021-06-14 15:05:15.577.-04:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2021-06-14 15:05:15.577.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/favicon-32x32.png - - - 200 628 image/png 34.2648ms
+2021-06-14 15:05:28.699.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-14 15:05:28.701.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 1.6718ms
+2021-06-14 15:05:28.968.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-14 15:05:28.970.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 1.3140ms
+2021-06-14 15:05:28.974.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/favicon-32x32.png - -
+2021-06-14 15:05:28.974.-04:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2021-06-14 15:05:28.974.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/favicon-32x32.png - - - 200 628 image/png 0.5685ms

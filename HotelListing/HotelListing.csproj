@@ -15,6 +15,7 @@
     </PackageReference>
     <PackageReference Include="automapper" Version="10.1.1" />
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="5.0.7" />
   </ItemGroup>
 
   <ItemGroup>
@@ -24,5 +25,6 @@
     <Folder Include="Repository\" />
     <Folder Include="Models\" />
     <Folder Include="Configurations\" />
+    <Folder Include="logs\" />
   </ItemGroup>
 </Project>

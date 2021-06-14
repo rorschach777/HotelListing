@@ -4,6 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using HotelListing.Configurations;
 using HotelListing.Data;
+using HotelListing.IRepository;
+using HotelListing.Repository;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -14,6 +16,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+
 
 namespace HotelListing
 {
@@ -42,15 +45,22 @@ namespace HotelListing
                 .AllowAnyHeader());
             });
 
-            // Set the standar
+            // Set the standard
             services.AddAutoMapper(typeof(MapperInitializer));
+
+            // Add Get Requests:
+            // Add Transient everytime it needs a new scope is generated... This always provides a fresh copy. 
+            // Add Singleton, only one instance is generated for the entire process. (Depending on the needs this may make sense)
+            services.AddTransient<IUnitOfWork, UnitOfWork>();
 
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "HotelListing", Version = "v1" });
             });
 
-            services.AddControllers();
+            // This had to be added due to the relationships setup between Hotel and Countreis...
+            // Where you may see a reference loop happening, don't make a big deal out of it... ignore it. 
+            services.AddControllers().AddNewtonsoftJson(op => op.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

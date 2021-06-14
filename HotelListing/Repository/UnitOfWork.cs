@@ -7,22 +7,26 @@ namespace HotelListing.Repository
 {
     public class UnitOfWork : IUnitOfWork
     {
-        public UnitOfWork()
+        private readonly DatabaseContext _context;
+        private IGenericRepository<Country> _countries;
+        private IGenericRepository<Hotel> _hotels;
+
+        public UnitOfWork(DatabaseContext context)
         {
+            _context = context;
         }
-
-        public IGenericRepository<Country> Countries => throw new NotImplementedException();
-
-        public IGenericRepository<Hotel> Hotels => throw new NotImplementedException();
+        public IGenericRepository<Country> Countries => _countries ??= new GenericRepository<Country>(_context);
+        public IGenericRepository<Hotel> Hotels => _hotels ??= new GenericRepository<Hotel>(_context);
 
         public void Dispose()
         {
-            throw new NotImplementedException();
+            _context.Dispose();
+            GC.SuppressFinalize(this);
         }
 
-        public Task Save()
+        public async Task Save()
         {
-            throw new NotImplementedException();
+            await _context.SaveChangesAsync();
         }
     }
 }

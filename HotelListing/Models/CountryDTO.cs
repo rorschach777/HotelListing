@@ -24,6 +24,10 @@ namespace HotelListing.Models
     {
         public int Id { get; set; }
 
+        // any type of sanitation / calcualtions / embelishment can occur here,
+        // and it's never returned as the final datatype etc. 
+
         public IList<HotelDTO> Hotels { get; set; }
+
     }
 }
