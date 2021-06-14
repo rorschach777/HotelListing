@@ -1,0 +1,38 @@
+2021-05-04 12:52:28.573.-04:00 [INF] Application is Starting
+2021-05-04 12:52:29.938.-04:00 [INF] Now listening on: https://localhost:5001
+2021-05-04 12:52:29.941.-04:00 [INF] Now listening on: http://localhost:5000
+2021-05-04 12:52:29.944.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-05-04 12:52:29.944.-04:00 [INF] Hosting environment: Development
+2021-05-04 12:52:29.944.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-05-04 12:52:31.026.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-05-04 12:52:31.117.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 93.5267ms
+2021-05-04 12:52:31.369.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-05-04 12:52:31.434.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 65.1672ms
+2021-05-04 12:55:35.350.-04:00 [INF] Application is Starting
+2021-05-04 12:55:36.923.-04:00 [INF] Now listening on: https://localhost:5001
+2021-05-04 12:55:36.927.-04:00 [INF] Now listening on: http://localhost:5000
+2021-05-04 12:55:36.927.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-05-04 12:55:36.927.-04:00 [INF] Hosting environment: Development
+2021-05-04 12:55:36.927.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-05-04 12:55:38.047.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-05-04 12:55:38.133.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 88.4059ms
+2021-05-04 12:55:38.588.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-05-04 12:55:38.661.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 72.5916ms
+2021-05-04 13:02:00.269.-04:00 [INF] Application is Starting
+2021-05-04 13:02:01.808.-04:00 [INF] Now listening on: https://localhost:5001
+2021-05-04 13:02:01.811.-04:00 [INF] Now listening on: http://localhost:5000
+2021-05-04 13:02:01.811.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-05-04 13:02:01.811.-04:00 [INF] Hosting environment: Development
+2021-05-04 13:02:01.811.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-05-04 13:02:02.916.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-05-04 13:02:03.006.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 92.4410ms
+2021-05-04 13:02:03.455.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-05-04 13:02:03.552.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 96.1217ms
+2021-05-04 13:02:19.000.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/WeatherForecast - -
+2021-05-04 13:02:19.036.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.WeatherForecastController.Get (HotelListing)'
+2021-05-04 13:02:19.061.-04:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[HotelListing.WeatherForecast] Get() on controller HotelListing.Controllers.WeatherForecastController (HotelListing).
+2021-05-04 13:02:19.063.-04:00 [INF] Accessed Weather Forecast
+2021-05-04 13:02:19.070.-04:00 [INF] Executing ObjectResult, writing value of type 'HotelListing.WeatherForecast[]'.
+2021-05-04 13:02:19.090.-04:00 [INF] Executed action HotelListing.Controllers.WeatherForecastController.Get (HotelListing) in 24.2449ms
+2021-05-04 13:02:19.091.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.WeatherForecastController.Get (HotelListing)'
+2021-05-04 13:02:19.091.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/WeatherForecast - - - 200 - application/json;+charset=utf-8 90.5481ms

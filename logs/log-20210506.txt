@@ -1,0 +1,66 @@
+2021-05-06 21:28:16.539.-04:00 [INF] Application is Starting
+2021-05-06 21:28:23.264.-04:00 [FTL] Application failed to start
+System.FormatException: Could not parse the JSON file.
+ ---> System.Text.Json.JsonReaderException: '.' is an invalid start of a value. LineNumber: 0 | BytePositionInLine: 0.
+   at System.Text.Json.ThrowHelper.ThrowJsonReaderException(Utf8JsonReader& json, ExceptionResource resource, Byte nextByte, ReadOnlySpan`1 bytes)
+   at System.Text.Json.Utf8JsonReader.ConsumeValue(Byte marker)
+   at System.Text.Json.Utf8JsonReader.ReadFirstToken(Byte first)
+   at System.Text.Json.Utf8JsonReader.ReadSingleSegment()
+   at System.Text.Json.Utf8JsonReader.Read()
+   at System.Text.Json.JsonDocument.Parse(ReadOnlySpan`1 utf8JsonSpan, JsonReaderOptions readerOptions, MetadataDb& database, StackRowStack& stack)
+   at System.Text.Json.JsonDocument.Parse(ReadOnlyMemory`1 utf8Json, JsonReaderOptions readerOptions, Byte[] extraRentedBytes)
+   at System.Text.Json.JsonDocument.Parse(ReadOnlyMemory`1 json, JsonDocumentOptions options)
+   at System.Text.Json.JsonDocument.Parse(String json, JsonDocumentOptions options)
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationFileParser.ParseStream(Stream input)
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationProvider.Load(Stream stream)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Configuration.Json.JsonConfigurationProvider.Load(Stream stream)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load(Boolean reload)
+--- End of stack trace from previous location ---
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.HandleException(ExceptionDispatchInfo info)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load(Boolean reload)
+   at Microsoft.Extensions.Configuration.FileConfigurationProvider.Load()
+   at Microsoft.Extensions.Configuration.ConfigurationRoot..ctor(IList`1 providers)
+   at Microsoft.Extensions.Configuration.ConfigurationBuilder.Build()
+   at Microsoft.Extensions.Hosting.HostBuilder.BuildAppConfiguration()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at HotelListing.Program.Main(String[] args) in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Program.cs:line 28
+2021-05-06 21:28:45.566.-04:00 [INF] Application is Starting
+2021-05-06 21:28:48.142.-04:00 [INF] Now listening on: https://localhost:5001
+2021-05-06 21:28:48.145.-04:00 [INF] Now listening on: http://localhost:5000
+2021-05-06 21:28:48.146.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-05-06 21:28:48.146.-04:00 [INF] Hosting environment: Development
+2021-05-06 21:28:48.146.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-05-06 21:28:49.585.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-05-06 21:28:49.687.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 104.4873ms
+2021-05-06 21:28:49.754.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-bundle.js - -
+2021-05-06 21:28:49.758.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui.css - -
+2021-05-06 21:28:49.871.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js - -
+2021-05-06 21:28:49.932.-04:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2021-05-06 21:28:49.932.-04:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2021-05-06 21:28:49.932.-04:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2021-05-06 21:28:49.934.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 179.5927ms
+2021-05-06 21:28:49.934.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 62.7905ms
+2021-05-06 21:28:49.934.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui.css - - - 200 142933 text/css 175.7045ms
+2021-05-06 21:28:50.535.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-05-06 21:28:50.606.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 71.1742ms
+2021-05-06 21:30:41.772.-04:00 [INF] Application is Starting
+2021-05-06 21:30:43.609.-04:00 [INF] Now listening on: https://localhost:5001
+2021-05-06 21:30:43.612.-04:00 [INF] Now listening on: http://localhost:5000
+2021-05-06 21:30:43.612.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-05-06 21:30:43.612.-04:00 [INF] Hosting environment: Development
+2021-05-06 21:30:43.612.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-05-06 21:30:44.947.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-05-06 21:30:45.049.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 104.9318ms
+2021-05-06 21:30:45.521.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-05-06 21:30:45.591.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 70.3266ms
+2021-05-06 21:31:22.515.-04:00 [INF] Application is Starting
+2021-05-06 21:31:38.238.-04:00 [INF] Now listening on: https://localhost:5001
+2021-05-06 21:31:38.241.-04:00 [INF] Now listening on: http://localhost:5000
+2021-05-06 21:31:38.241.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-05-06 21:31:38.241.-04:00 [INF] Hosting environment: Development
+2021-05-06 21:31:38.241.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-05-06 21:31:39.413.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-05-06 21:31:39.548.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 137.2767ms
+2021-05-06 21:31:40.234.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-05-06 21:31:40.306.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 72.0902ms
