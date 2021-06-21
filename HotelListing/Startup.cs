@@ -37,6 +37,10 @@ namespace HotelListing
                 options.UseSqlServer(Configuration.GetConnectionString("sqlConnection"))
             );
 
+            services.AddAuthentication();
+            // Configure Identity is just the Service Extensions file.
+            // Anytime we have multiple lines per thing that needs to be added it can be abstracted in the extension file. 
+            services.ConfigureIdentity();
         
             services.AddCors(o => {
             o.AddPolicy("AllowAll", builder =>

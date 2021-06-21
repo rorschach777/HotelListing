@@ -18,6 +18,9 @@ namespace HotelListing.Configurations
             // Hotel Data have direct correlation to HotelDTO
             CreateMap<Hotel, HotelDTO>().ReverseMap();
             CreateMap<Hotel, CreateHotelDTO>().ReverseMap();
+
+            // Users: 
+            CreateMap<ApiUser, UserDTO>().ReverseMap();
         }
     }
 }

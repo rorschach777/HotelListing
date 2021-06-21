@@ -1,0 +1,228 @@
+2021-06-20 21:50:53.672.-04:00 [INF] Application is Starting
+2021-06-20 21:50:56.586.-04:00 [INF] User profile is available. Using '/Users/marksweitzer/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2021-06-20 21:50:56.626.-04:00 [INF] Creating key {797c5e41-852c-4f3a-9536-9a963ef251eb} with creation date 2021-06-21 01:50:56Z, activation date 2021-06-21 01:50:56Z, and expiration date 2021-09-19 01:50:56Z.
+2021-06-20 21:50:56.650.-04:00 [WRN] No XML encryptor configured. Key {797c5e41-852c-4f3a-9536-9a963ef251eb} may be persisted to storage in unencrypted form.
+2021-06-20 21:50:56.657.-04:00 [INF] Writing data to file '/Users/marksweitzer/.aspnet/DataProtection-Keys/key-797c5e41-852c-4f3a-9536-9a963ef251eb.xml'.
+2021-06-20 21:50:57.194.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-20 21:50:57.194.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-20 21:50:57.194.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-20 21:50:57.194.-04:00 [INF] Hosting environment: Development
+2021-06-20 21:50:57.194.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-20 21:50:58.490.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-20 21:50:58.598.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 111.0814ms
+2021-06-20 21:50:58.691.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-bundle.js - -
+2021-06-20 21:50:58.693.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui.css - -
+2021-06-20 21:50:58.709.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js - -
+2021-06-20 21:50:58.757.-04:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2021-06-20 21:50:58.757.-04:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2021-06-20 21:50:58.758.-04:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2021-06-20 21:50:58.759.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 68.1873ms
+2021-06-20 21:50:58.759.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 49.7564ms
+2021-06-20 21:50:58.759.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui.css - - - 200 142933 text/css 66.6491ms
+2021-06-20 21:50:58.926.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-20 21:50:59.018.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 92.6321ms
+2021-06-20 21:54:15.774.-04:00 [INF] Application is Starting
+2021-06-20 21:54:17.264.-04:00 [INF] User profile is available. Using '/Users/marksweitzer/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2021-06-20 21:54:17.802.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-20 21:54:17.802.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-20 21:54:17.802.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-20 21:54:17.802.-04:00 [INF] Hosting environment: Development
+2021-06-20 21:54:17.802.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-20 21:54:19.099.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-20 21:54:19.206.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 109.4265ms
+2021-06-20 21:54:19.519.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-20 21:54:19.611.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 91.9490ms
+2021-06-20 21:54:36.127.-04:00 [INF] Application is Starting
+2021-06-20 21:54:37.621.-04:00 [INF] User profile is available. Using '/Users/marksweitzer/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2021-06-20 21:54:38.131.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-20 21:54:38.131.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-20 21:54:38.131.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-20 21:54:38.131.-04:00 [INF] Hosting environment: Development
+2021-06-20 21:54:38.131.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-20 21:54:39.345.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-20 21:54:39.453.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 110.1134ms
+2021-06-20 21:54:39.681.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-20 21:54:39.781.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 99.8937ms
+2021-06-20 21:56:03.218.-04:00 [INF] Application is Starting
+2021-06-20 21:56:08.523.-04:00 [INF] User profile is available. Using '/Users/marksweitzer/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2021-06-20 21:56:09.068.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-20 21:56:09.068.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-20 21:56:09.069.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-20 21:56:09.069.-04:00 [INF] Hosting environment: Development
+2021-06-20 21:56:09.069.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-20 21:56:10.358.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-20 21:56:10.459.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 102.6966ms
+2021-06-20 21:56:10.680.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-20 21:56:10.778.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 97.3532ms
+2021-06-20 21:56:27.483.-04:00 [INF] Request starting HTTP/1.1 POST https://localhost:5001/api/Account/register application/json-patch+json 112
+2021-06-20 21:56:27.489.-04:00 [INF] CORS policy execution successful.
+2021-06-20 21:56:27.527.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.AccountController.Register (HotelListing)'
+2021-06-20 21:56:27.569.-04:00 [INF] Route matched with {action = "Register", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(HotelListing.Models.UserDTO) on controller HotelListing.Controllers.AccountController (HotelListing).
+2021-06-20 21:56:27.793.-04:00 [INF] Executed action HotelListing.Controllers.AccountController.Register (HotelListing) in 219.4644ms
+2021-06-20 21:56:27.795.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.AccountController.Register (HotelListing)'
+2021-06-20 21:56:27.797.-04:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.AspNetCore.Identity.SignInManager`1[HotelListing.Data.ApiUser]' while attempting to activate 'HotelListing.Controllers.AccountController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method10(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-20 21:56:27.887.-04:00 [INF] Request finished HTTP/1.1 POST https://localhost:5001/api/Account/register application/json-patch+json 112 - 500 - text/plain 403.2885ms
+2021-06-20 21:56:51.704.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-20 21:56:51.710.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 31.5368ms
+2021-06-20 21:56:51.904.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-20 21:56:51.909.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/favicon-32x32.png - -
+2021-06-20 21:56:51.911.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 6.2669ms
+2021-06-20 21:56:51.919.-04:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2021-06-20 21:56:51.919.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/favicon-32x32.png - - - 200 628 image/png 10.1190ms
+2021-06-20 21:57:10.850.-04:00 [INF] Request starting HTTP/1.1 POST https://localhost:5001/api/Account/register application/json-patch+json 109
+2021-06-20 21:57:10.850.-04:00 [INF] CORS policy execution successful.
+2021-06-20 21:57:10.851.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.AccountController.Register (HotelListing)'
+2021-06-20 21:57:10.852.-04:00 [INF] Route matched with {action = "Register", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(HotelListing.Models.UserDTO) on controller HotelListing.Controllers.AccountController (HotelListing).
+2021-06-20 21:57:10.855.-04:00 [INF] Executed action HotelListing.Controllers.AccountController.Register (HotelListing) in 3.6722ms
+2021-06-20 21:57:10.856.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.AccountController.Register (HotelListing)'
+2021-06-20 21:57:10.856.-04:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.AspNetCore.Identity.SignInManager`1[HotelListing.Data.ApiUser]' while attempting to activate 'HotelListing.Controllers.AccountController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method10(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-20 21:57:10.857.-04:00 [INF] Request finished HTTP/1.1 POST https://localhost:5001/api/Account/register application/json-patch+json 109 - 500 - text/plain 7.5399ms
+2021-06-20 21:57:29.820.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-20 21:57:29.821.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 0.4957ms
+2021-06-20 21:57:30.003.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-20 21:57:30.005.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 1.9060ms
+2021-06-20 21:57:30.049.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/favicon-32x32.png - -
+2021-06-20 21:57:30.051.-04:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2021-06-20 21:57:30.051.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/favicon-32x32.png - - - 200 628 image/png 2.7016ms
+2021-06-20 21:57:41.525.-04:00 [INF] Request starting HTTP/1.1 POST https://localhost:5001/api/Account/register application/json-patch+json 116
+2021-06-20 21:57:41.526.-04:00 [INF] CORS policy execution successful.
+2021-06-20 21:57:41.526.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.AccountController.Register (HotelListing)'
+2021-06-20 21:57:41.527.-04:00 [INF] Route matched with {action = "Register", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(HotelListing.Models.UserDTO) on controller HotelListing.Controllers.AccountController (HotelListing).
+2021-06-20 21:57:41.533.-04:00 [INF] Executed action HotelListing.Controllers.AccountController.Register (HotelListing) in 6.443ms
+2021-06-20 21:57:41.533.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.AccountController.Register (HotelListing)'
+2021-06-20 21:57:41.534.-04:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.AspNetCore.Identity.SignInManager`1[HotelListing.Data.ApiUser]' while attempting to activate 'HotelListing.Controllers.AccountController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method10(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-20 21:57:41.535.-04:00 [INF] Request finished HTTP/1.1 POST https://localhost:5001/api/Account/register application/json-patch+json 116 - 500 - text/plain 9.2195ms
+2021-06-20 21:58:11.520.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-20 21:58:11.522.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 1.3384ms
+2021-06-20 21:58:11.712.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-20 21:58:11.714.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/favicon-32x32.png - -
+2021-06-20 21:58:11.714.-04:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2021-06-20 21:58:11.714.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/favicon-32x32.png - - - 200 628 image/png 0.4300ms
+2021-06-20 21:58:11.714.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 2.2505ms
+2021-06-20 21:58:32.080.-04:00 [INF] Request starting HTTP/1.1 POST https://localhost:5001/api/Account/register application/json-patch+json 115
+2021-06-20 21:58:32.080.-04:00 [INF] CORS policy execution successful.
+2021-06-20 21:58:32.080.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.AccountController.Register (HotelListing)'
+2021-06-20 21:58:32.080.-04:00 [INF] Route matched with {action = "Register", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(HotelListing.Models.UserDTO) on controller HotelListing.Controllers.AccountController (HotelListing).
+2021-06-20 21:58:32.081.-04:00 [INF] Executed action HotelListing.Controllers.AccountController.Register (HotelListing) in 0.4329ms
+2021-06-20 21:58:32.081.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.AccountController.Register (HotelListing)'
+2021-06-20 21:58:32.081.-04:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.AspNetCore.Identity.SignInManager`1[HotelListing.Data.ApiUser]' while attempting to activate 'HotelListing.Controllers.AccountController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method10(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-06-20 21:58:32.082.-04:00 [INF] Request finished HTTP/1.1 POST https://localhost:5001/api/Account/register application/json-patch+json 115 - 500 - text/plain 1.9898ms
+2021-06-20 21:59:21.981.-04:00 [INF] Application is Starting
+2021-06-20 21:59:29.038.-04:00 [INF] User profile is available. Using '/Users/marksweitzer/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2021-06-20 21:59:29.524.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-20 21:59:29.524.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-20 21:59:29.525.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-20 21:59:29.525.-04:00 [INF] Hosting environment: Development
+2021-06-20 21:59:29.525.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-20 21:59:30.790.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-20 21:59:30.885.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 96.6649ms
+2021-06-20 21:59:31.115.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-20 21:59:31.211.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 96.0464ms
+2021-06-20 21:59:43.234.-04:00 [INF] Request starting HTTP/1.1 POST https://localhost:5001/api/Account/register application/json-patch+json 117
+2021-06-20 21:59:43.240.-04:00 [INF] CORS policy execution successful.
+2021-06-20 21:59:43.271.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.AccountController.Register (HotelListing)'
+2021-06-20 21:59:43.304.-04:00 [INF] Route matched with {action = "Register", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(HotelListing.Models.UserDTO) on controller HotelListing.Controllers.AccountController (HotelListing).
+2021-06-20 21:59:43.830.-04:00 [INF] Registration Attempt for user@example.com
+2021-06-20 21:59:44.590.-04:00 [INF] Entity Framework Core 5.0.7 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-20 21:59:45.377.-04:00 [INF] Executed DbCommand (57ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2021-06-20 21:59:45.401.-04:00 [WRN] User validation failed: InvalidUserName.
+2021-06-20 21:59:45.409.-04:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.SerializableError'.
+2021-06-20 21:59:45.448.-04:00 [INF] Executed action HotelListing.Controllers.AccountController.Register (HotelListing) in 2140.2514ms
+2021-06-20 21:59:45.449.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.AccountController.Register (HotelListing)'
+2021-06-20 21:59:45.453.-04:00 [INF] Request finished HTTP/1.1 POST https://localhost:5001/api/Account/register application/json-patch+json 117 - 400 83 application/json;+charset=utf-8 2218.9217ms
+2021-06-20 22:00:58.242.-04:00 [INF] Application is Starting
+2021-06-20 22:00:59.674.-04:00 [INF] User profile is available. Using '/Users/marksweitzer/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2021-06-20 22:01:00.179.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-20 22:01:00.180.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-20 22:01:00.180.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-20 22:01:00.180.-04:00 [INF] Hosting environment: Development
+2021-06-20 22:01:00.180.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-20 22:01:01.469.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-20 22:01:01.570.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 102.9732ms
+2021-06-20 22:01:01.810.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-20 22:01:01.900.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 89.9411ms
+2021-06-20 22:01:25.210.-04:00 [INF] Request starting HTTP/1.1 POST https://localhost:5001/api/Account/register application/json-patch+json 117
+2021-06-20 22:01:25.216.-04:00 [INF] CORS policy execution successful.
+2021-06-20 22:01:25.246.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.AccountController.Register (HotelListing)'
+2021-06-20 22:01:25.280.-04:00 [INF] Route matched with {action = "Register", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(HotelListing.Models.UserDTO) on controller HotelListing.Controllers.AccountController (HotelListing).
+2021-06-20 22:01:25.787.-04:00 [INF] Registration Attempt for user@example.com
+2021-06-20 22:01:26.507.-04:00 [INF] Entity Framework Core 5.0.7 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-20 22:01:27.256.-04:00 [INF] Executed DbCommand (53ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2021-06-20 22:01:27.297.-04:00 [INF] Executed DbCommand (4ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2021-06-20 22:01:27.479.-04:00 [INF] Executed DbCommand (5ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (DbType = Int32), @p2='?' (Size = 4000), @p3='?' (Size = 256), @p4='?' (DbType = Boolean), @p5='?' (Size = 4000), @p6='?' (Size = 4000), @p7='?' (DbType = Boolean), @p8='?' (DbType = DateTimeOffset), @p9='?' (Size = 256), @p10='?' (Size = 256), @p11='?' (Size = 4000), @p12='?' (Size = 4000), @p13='?' (DbType = Boolean), @p14='?' (Size = 4000), @p15='?' (DbType = Boolean), @p16='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [AspNetUsers] ([Id], [AccessFailedCount], [ConcurrencyStamp], [Email], [EmailConfirmed], [FirstName], [LastName], [LockoutEnabled], [LockoutEnd], [NormalizedEmail], [NormalizedUserName], [PasswordHash], [PhoneNumber], [PhoneNumberConfirmed], [SecurityStamp], [TwoFactorEnabled], [UserName])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15, @p16);
+2021-06-20 22:01:27.511.-04:00 [INF] Executing AcceptedResult, writing value of type 'null'.
+2021-06-20 22:01:27.516.-04:00 [INF] Executed action HotelListing.Controllers.AccountController.Register (HotelListing) in 2231.3632ms
+2021-06-20 22:01:27.517.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.AccountController.Register (HotelListing)'
+2021-06-20 22:01:27.522.-04:00 [INF] Request finished HTTP/1.1 POST https://localhost:5001/api/Account/register application/json-patch+json 117 - 202 0 - 2312.1512ms
