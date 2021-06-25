@@ -27,5 +27,6 @@
     <Folder Include="Models\" />
     <Folder Include="Configurations\" />
     <Folder Include="logs\" />
+    <Folder Include="Configurations\Entities\" />
   </ItemGroup>
 </Project>

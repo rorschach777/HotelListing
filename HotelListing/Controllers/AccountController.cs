@@ -65,6 +65,8 @@ namespace HotelListing.Controllers
                     }
                     return BadRequest(ModelState);
                 }
+                // Adds roles to the user: 
+                await _userManager.AddToRolesAsync(user, userDTO.Roles);
                 // Success! 
                 return Accepted();
             }

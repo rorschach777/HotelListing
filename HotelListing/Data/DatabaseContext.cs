@@ -1,6 +1,8 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using HotelListing.Configurations.Entities;
+
 namespace HotelListing.Data
 {
   
@@ -26,52 +28,13 @@ namespace HotelListing.Data
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);
-            builder.Entity<Country>().HasData(
-                new Country
-                {
-                    Id = 1,
-                    Name = "Jamaica",
-                    ShortName = "JM"
-                },
-                new Country
-                {
-                    Id = 2,
-                    Name = "Bahamas",
-                    ShortName = "BS"
-                },
-                new Country
-                {
-                    Id = 3,
-                    Name = "Cayman Islands",
-                    ShortName = "CI"
-                }
-           );
-            builder.Entity<Hotel>().HasData(
-                new Hotel
-                {
-                    Id = 1,
-                    Name = "Sandals Resort and Spa",
-                    Address = "1234 Main st.,",
-                    CountryId = 1,
-                    Rating = 4.5
-                },
-                new Hotel
-                {
-                    Id = 2,
-                    Name = "Comfort Suites",
-                    Address = "9876 comfort st.,",
-                    CountryId = 3,
-                    Rating = 4.2
-                },
-                new Hotel
-                {
-                    Id = 3,
-                    Name = "Atlantis",
-                    Address = "876 Atlantis way.,",
-                    CountryId = 2,
-                    Rating = 4.8
-                }
-           );
+
+            builder.ApplyConfiguration(new CountryConfiguration());
+            builder.ApplyConfiguration(new HotelConfiguration());
+
+            // Creating the role configuration. 
+            builder.ApplyConfiguration(new RoleConfiguration());
+
         }
     }
 }

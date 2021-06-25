@@ -7,9 +7,9 @@ namespace HotelListing.Migrations
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.InsertData(
-                table: "Countries",
-                columns: new[] { "Id", "Name", "ShortName" },
-                values: new object[] { 1, "Jamaica", "JM" });
+                        table: "Countries",
+                        columns: new[] { "Id", "Name", "ShortName" },
+                        values: new object[] { 1, "Jamaica", "JM" });
 
             migrationBuilder.InsertData(
                 table: "Countries",

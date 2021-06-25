@@ -80,3 +80,4 @@
 /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
 /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/marksweitzer/Sites/c#/HotelListing/HotelListing/bin/Debug/net5.0/mono_crash.11a6748113.1.json
