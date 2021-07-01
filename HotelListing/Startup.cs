@@ -6,6 +6,7 @@ using HotelListing.Configurations;
 using HotelListing.Data;
 using HotelListing.IRepository;
 using HotelListing.Repository;
+using HotelListing.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -33,6 +34,8 @@ namespace HotelListing
         public void ConfigureServices(IServiceCollection services)
         {
 
+           
+
             services.AddDbContext<DatabaseContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("sqlConnection"))
             );
@@ -41,7 +44,9 @@ namespace HotelListing
             // Configure Identity is just the Service Extensions file.
             // Anytime we have multiple lines per thing that needs to be added it can be abstracted in the extension file. 
             services.ConfigureIdentity();
-        
+            // JWT configuration:
+            services.ConfigureJWT(Configuration);
+
             services.AddCors(o => {
             o.AddPolicy("AllowAll", builder =>
                 builder.AllowAnyOrigin()
@@ -49,6 +54,7 @@ namespace HotelListing
                 .AllowAnyHeader());
             });
 
+         
             // Set the standard
             services.AddAutoMapper(typeof(MapperInitializer));
 
@@ -56,6 +62,8 @@ namespace HotelListing
             // Add Transient everytime it needs a new scope is generated... This always provides a fresh copy. 
             // Add Singleton, only one instance is generated for the entire process. (Depending on the needs this may make sense)
             services.AddTransient<IUnitOfWork, UnitOfWork>();
+            // 
+            services.AddScoped<IAuthManager, AuthManager>();
 
             services.AddSwaggerGen(c =>
             {
@@ -85,11 +93,16 @@ namespace HotelListing
 
             app.UseRouting();
 
+            app.UseAuthentication();
             app.UseAuthorization();
+
+    
 
             app.UseEndpoints(endpoints =>
             {
+
                 endpoints.MapControllers();
+       
             });
         }
     }

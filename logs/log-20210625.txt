@@ -1,0 +1,739 @@
+2021-06-25 08:13:53.030.-04:00 [INF] Application is Starting
+2021-06-25 08:13:53.611.-04:00 [INF] User profile is available. Using '/Users/marksweitzer/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2021-06-25 08:13:53.874.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-25 08:13:53.874.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-25 08:13:53.874.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-25 08:13:53.874.-04:00 [INF] Hosting environment: Development
+2021-06-25 08:13:53.874.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-25 08:14:40.646.-04:00 [INF] Application is shutting down...
+2021-06-25 10:34:12.494.-04:00 [INF] Application is Starting
+2021-06-25 10:34:14.253.-04:00 [INF] User profile is available. Using '/Users/marksweitzer/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2021-06-25 10:34:14.878.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-25 10:34:14.879.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-25 10:34:14.879.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-25 10:34:14.879.-04:00 [INF] Hosting environment: Development
+2021-06-25 10:34:14.879.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-25 10:34:35.057.-04:00 [INF] Application is Starting
+2021-06-25 10:34:36.538.-04:00 [INF] User profile is available. Using '/Users/marksweitzer/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2021-06-25 10:34:37.068.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-25 10:34:37.068.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-25 10:34:37.069.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-25 10:34:37.069.-04:00 [INF] Hosting environment: Development
+2021-06-25 10:34:37.069.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-25 10:34:38.621.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger - -
+2021-06-25 10:34:38.663.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger - - - 301 0 - 44.2926ms
+2021-06-25 10:34:38.681.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-25 10:34:38.748.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 67.1426ms
+2021-06-25 10:34:38.849.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-bundle.js - -
+2021-06-25 10:34:38.849.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui.css - -
+2021-06-25 10:34:38.871.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js - -
+2021-06-25 10:34:38.953.-04:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2021-06-25 10:34:38.953.-04:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2021-06-25 10:34:38.953.-04:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2021-06-25 10:34:38.955.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 83.5330ms
+2021-06-25 10:34:38.955.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui.css - - - 200 142933 text/css 105.7510ms
+2021-06-25 10:34:38.955.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 106.1346ms
+2021-06-25 10:34:39.133.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-25 10:34:39.226.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 93.5142ms
+2021-06-25 20:58:53.849.-04:00 [INF] Application is Starting
+2021-06-25 20:58:55.339.-04:00 [INF] User profile is available. Using '/Users/marksweitzer/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2021-06-25 20:58:55.832.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-25 20:58:55.832.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-25 20:58:55.832.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-25 20:58:55.832.-04:00 [INF] Hosting environment: Development
+2021-06-25 20:58:55.832.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-25 20:58:57.151.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-25 20:58:57.243.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 93.5892ms
+2021-06-25 20:58:57.290.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-bundle.js - -
+2021-06-25 20:58:57.349.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui.css - -
+2021-06-25 20:58:57.378.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js - -
+2021-06-25 20:58:57.441.-04:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2021-06-25 20:58:57.441.-04:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2021-06-25 20:58:57.441.-04:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2021-06-25 20:58:57.443.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 65.3641ms
+2021-06-25 20:58:57.443.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui.css - - - 200 142933 text/css 93.3983ms
+2021-06-25 20:58:57.443.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 153.1826ms
+2021-06-25 20:58:57.600.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-25 20:58:57.696.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 95.7872ms
+2021-06-25 22:50:33.233.-04:00 [INF] Application is Starting
+2021-06-25 22:50:35.053.-04:00 [INF] User profile is available. Using '/Users/marksweitzer/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2021-06-25 22:50:35.700.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-25 22:50:35.700.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-25 22:50:35.700.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-25 22:50:35.700.-04:00 [INF] Hosting environment: Development
+2021-06-25 22:50:35.700.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-25 22:50:36.972.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-25 22:50:37.076.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 106.3826ms
+2021-06-25 22:50:37.097.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js - -
+2021-06-25 22:50:37.099.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-bundle.js - -
+2021-06-25 22:50:37.250.-04:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2021-06-25 22:50:37.250.-04:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2021-06-25 22:50:37.252.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 153.1840ms
+2021-06-25 22:50:37.252.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 154.9768ms
+2021-06-25 22:50:37.416.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-25 22:50:37.508.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 91.4777ms
+2021-06-25 22:52:13.187.-04:00 [INF] Request starting HTTP/1.1 POST https://localhost:5001/api/Account/login application/json-patch+json 55
+2021-06-25 22:52:13.191.-04:00 [INF] CORS policy execution successful.
+2021-06-25 22:52:13.235.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.AccountController.Login (HotelListing)'
+2021-06-25 22:52:13.278.-04:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(HotelListing.Models.LoginUserDTO) on controller HotelListing.Controllers.AccountController (HotelListing).
+2021-06-25 22:52:13.850.-04:00 [INF] Login Attempt for user2@hotels.com
+2021-06-25 22:52:14.556.-04:00 [INF] Entity Framework Core 5.0.7 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-25 22:52:15.344.-04:00 [INF] Executed DbCommand (55ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2021-06-25 22:52:15.605.-04:00 [INF] Executed DbCommand (26ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2021-06-25 22:52:16.138.-04:00 [ERR] Something went wrong in the Login
+System.ArgumentOutOfRangeException: IDX10653: The encryption algorithm 'System.String' requires a key size of at least 'System.Int32' bits. Key 'Microsoft.IdentityModel.Tokens.SymmetricSecurityKey', is of size: 'System.Int32'. (Parameter 'key')
+   at Microsoft.IdentityModel.Tokens.SymmetricSignatureProvider..ctor(SecurityKey key, String algorithm, Boolean willCreateSignatures)
+   at Microsoft.IdentityModel.Tokens.CryptoProviderFactory.CreateSignatureProvider(SecurityKey key, String algorithm, Boolean willCreateSignatures, Boolean cacheProvider)
+   at Microsoft.IdentityModel.Tokens.CryptoProviderFactory.CreateForSigning(SecurityKey key, String algorithm, Boolean cacheProvider)
+   at Microsoft.IdentityModel.Tokens.CryptoProviderFactory.CreateForSigning(SecurityKey key, String algorithm)
+   at Microsoft.IdentityModel.JsonWebTokens.JwtTokenUtilities.CreateEncodedSignature(String input, SigningCredentials signingCredentials)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.WriteToken(SecurityToken token)
+   at HotelListing.Services.AuthManager.CreateToken() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Services/AuthManager.cs:line 39
+   at HotelListing.Controllers.AccountController.Login(LoginUserDTO userDTO) in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Controllers/AccountController.cs:line 109
+2021-06-25 22:52:16.215.-04:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2021-06-25 22:52:16.268.-04:00 [INF] Executed action HotelListing.Controllers.AccountController.Login (HotelListing) in 2985.3093ms
+2021-06-25 22:52:16.269.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.AccountController.Login (HotelListing)'
+2021-06-25 22:52:16.272.-04:00 [INF] Request finished HTTP/1.1 POST https://localhost:5001/api/Account/login application/json-patch+json 55 - 500 245 application/problem+json;+charset=utf-8 3085.3533ms
+2021-06-25 22:52:40.986.-04:00 [INF] Request starting HTTP/1.1 POST https://localhost:5001/api/Account/login application/json-patch+json 50
+2021-06-25 22:52:40.987.-04:00 [INF] CORS policy execution successful.
+2021-06-25 22:52:40.994.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.AccountController.Login (HotelListing)'
+2021-06-25 22:52:40.994.-04:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(HotelListing.Models.LoginUserDTO) on controller HotelListing.Controllers.AccountController (HotelListing).
+2021-06-25 22:52:41.020.-04:00 [INF] Login Attempt for user2@hotels.com
+2021-06-25 22:52:41.048.-04:00 [INF] Entity Framework Core 5.0.7 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-25 22:52:41.054.-04:00 [INF] Executed DbCommand (3ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2021-06-25 22:52:41.068.-04:00 [WRN] Invalid password for user.
+2021-06-25 22:52:41.069.-04:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2021-06-25 22:52:41.069.-04:00 [INF] Executed action HotelListing.Controllers.AccountController.Login (HotelListing) in 75.2884ms
+2021-06-25 22:52:41.069.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.AccountController.Login (HotelListing)'
+2021-06-25 22:52:41.069.-04:00 [INF] Request finished HTTP/1.1 POST https://localhost:5001/api/Account/login application/json-patch+json 50 - 401 162 application/problem+json;+charset=utf-8 83.7136ms
+2021-06-25 22:52:56.895.-04:00 [INF] Request starting HTTP/1.1 POST https://localhost:5001/api/Account/login application/json-patch+json 59
+2021-06-25 22:52:56.896.-04:00 [INF] CORS policy execution successful.
+2021-06-25 22:52:56.896.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.AccountController.Login (HotelListing)'
+2021-06-25 22:52:56.896.-04:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(HotelListing.Models.LoginUserDTO) on controller HotelListing.Controllers.AccountController (HotelListing).
+2021-06-25 22:52:56.906.-04:00 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2021-06-25 22:52:56.924.-04:00 [INF] Executed action HotelListing.Controllers.AccountController.Login (HotelListing) in 28.62ms
+2021-06-25 22:52:56.924.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.AccountController.Login (HotelListing)'
+2021-06-25 22:52:56.925.-04:00 [INF] Request finished HTTP/1.1 POST https://localhost:5001/api/Account/login application/json-patch+json 59 - 400 264 application/problem+json;+charset=utf-8 29.5043ms
+2021-06-25 22:53:06.001.-04:00 [INF] Request starting HTTP/1.1 POST https://localhost:5001/api/Account/login application/json-patch+json 53
+2021-06-25 22:53:06.001.-04:00 [INF] CORS policy execution successful.
+2021-06-25 22:53:06.001.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.AccountController.Login (HotelListing)'
+2021-06-25 22:53:06.001.-04:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(HotelListing.Models.LoginUserDTO) on controller HotelListing.Controllers.AccountController (HotelListing).
+2021-06-25 22:53:06.001.-04:00 [INF] Login Attempt for user2@hotels.com
+2021-06-25 22:53:06.009.-04:00 [INF] Entity Framework Core 5.0.7 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-25 22:53:06.013.-04:00 [INF] Executed DbCommand (3ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2021-06-25 22:53:06.028.-04:00 [WRN] Invalid password for user.
+2021-06-25 22:53:06.028.-04:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2021-06-25 22:53:06.028.-04:00 [INF] Executed action HotelListing.Controllers.AccountController.Login (HotelListing) in 27.4663ms
+2021-06-25 22:53:06.028.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.AccountController.Login (HotelListing)'
+2021-06-25 22:53:06.029.-04:00 [INF] Request finished HTTP/1.1 POST https://localhost:5001/api/Account/login application/json-patch+json 53 - 401 162 application/problem+json;+charset=utf-8 28.0015ms
+2021-06-25 22:53:11.939.-04:00 [INF] Request starting HTTP/1.1 POST https://localhost:5001/api/Account/login application/json-patch+json 55
+2021-06-25 22:53:11.942.-04:00 [INF] CORS policy execution successful.
+2021-06-25 22:53:11.943.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.AccountController.Login (HotelListing)'
+2021-06-25 22:53:11.943.-04:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(HotelListing.Models.LoginUserDTO) on controller HotelListing.Controllers.AccountController (HotelListing).
+2021-06-25 22:53:11.943.-04:00 [INF] Login Attempt for user2@hotels.com
+2021-06-25 22:53:11.945.-04:00 [INF] Entity Framework Core 5.0.7 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-25 22:53:11.972.-04:00 [INF] Executed DbCommand (4ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2021-06-25 22:53:11.992.-04:00 [INF] Executed DbCommand (2ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2021-06-25 22:53:12.449.-04:00 [ERR] Something went wrong in the Login
+System.ArgumentOutOfRangeException: IDX10653: The encryption algorithm 'System.String' requires a key size of at least 'System.Int32' bits. Key 'Microsoft.IdentityModel.Tokens.SymmetricSecurityKey', is of size: 'System.Int32'. (Parameter 'key')
+   at Microsoft.IdentityModel.Tokens.SymmetricSignatureProvider..ctor(SecurityKey key, String algorithm, Boolean willCreateSignatures)
+   at Microsoft.IdentityModel.Tokens.CryptoProviderFactory.CreateSignatureProvider(SecurityKey key, String algorithm, Boolean willCreateSignatures, Boolean cacheProvider)
+   at Microsoft.IdentityModel.Tokens.CryptoProviderFactory.CreateForSigning(SecurityKey key, String algorithm, Boolean cacheProvider)
+   at Microsoft.IdentityModel.Tokens.CryptoProviderFactory.CreateForSigning(SecurityKey key, String algorithm)
+   at Microsoft.IdentityModel.JsonWebTokens.JwtTokenUtilities.CreateEncodedSignature(String input, SigningCredentials signingCredentials)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.WriteToken(SecurityToken token)
+   at HotelListing.Services.AuthManager.CreateToken() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Services/AuthManager.cs:line 39
+   at HotelListing.Controllers.AccountController.Login(LoginUserDTO userDTO) in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Controllers/AccountController.cs:line 109
+2021-06-25 22:53:12.449.-04:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2021-06-25 22:53:12.449.-04:00 [INF] Executed action HotelListing.Controllers.AccountController.Login (HotelListing) in 506.199ms
+2021-06-25 22:53:12.449.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.AccountController.Login (HotelListing)'
+2021-06-25 22:53:12.449.-04:00 [INF] Request finished HTTP/1.1 POST https://localhost:5001/api/Account/login application/json-patch+json 55 - 500 245 application/problem+json;+charset=utf-8 510.0200ms
+2021-06-25 22:55:04.901.-04:00 [INF] Application is Starting
+2021-06-25 22:55:06.243.-04:00 [INF] User profile is available. Using '/Users/marksweitzer/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2021-06-25 22:55:06.719.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-25 22:55:06.719.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-25 22:55:06.719.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-25 22:55:06.719.-04:00 [INF] Hosting environment: Development
+2021-06-25 22:55:06.719.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-25 22:55:07.935.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-25 22:55:08.030.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 96.9504ms
+2021-06-25 22:55:08.308.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-25 22:55:08.399.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 90.9701ms
+2021-06-25 22:55:33.348.-04:00 [INF] Request starting HTTP/1.1 POST https://localhost:5001/api/Account/login application/json-patch+json 55
+2021-06-25 22:55:33.354.-04:00 [INF] CORS policy execution successful.
+2021-06-25 22:55:33.391.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.AccountController.Login (HotelListing)'
+2021-06-25 22:55:33.430.-04:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(HotelListing.Models.LoginUserDTO) on controller HotelListing.Controllers.AccountController (HotelListing).
+2021-06-25 22:55:33.919.-04:00 [INF] Login Attempt for user2@hotels.com
+2021-06-25 22:55:34.655.-04:00 [INF] Entity Framework Core 5.0.7 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-25 22:55:35.309.-04:00 [INF] Executed DbCommand (53ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2021-06-25 22:55:35.510.-04:00 [INF] Executed DbCommand (4ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2021-06-25 22:55:36.228.-04:00 [ERR] Something went wrong in the Login
+System.ArgumentOutOfRangeException: IDX10653: The encryption algorithm 'System.String' requires a key size of at least 'System.Int32' bits. Key 'Microsoft.IdentityModel.Tokens.SymmetricSecurityKey', is of size: 'System.Int32'. (Parameter 'key')
+   at Microsoft.IdentityModel.Tokens.SymmetricSignatureProvider..ctor(SecurityKey key, String algorithm, Boolean willCreateSignatures)
+   at Microsoft.IdentityModel.Tokens.CryptoProviderFactory.CreateSignatureProvider(SecurityKey key, String algorithm, Boolean willCreateSignatures, Boolean cacheProvider)
+   at Microsoft.IdentityModel.Tokens.CryptoProviderFactory.CreateForSigning(SecurityKey key, String algorithm, Boolean cacheProvider)
+   at Microsoft.IdentityModel.Tokens.CryptoProviderFactory.CreateForSigning(SecurityKey key, String algorithm)
+   at Microsoft.IdentityModel.JsonWebTokens.JwtTokenUtilities.CreateEncodedSignature(String input, SigningCredentials signingCredentials)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.WriteToken(SecurityToken token)
+   at HotelListing.Services.AuthManager.CreateToken() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Services/AuthManager.cs:line 39
+   at HotelListing.Controllers.AccountController.Login(LoginUserDTO userDTO) in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Controllers/AccountController.cs:line 109
+2021-06-25 22:55:36.278.-04:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2021-06-25 22:55:36.327.-04:00 [INF] Executed action HotelListing.Controllers.AccountController.Login (HotelListing) in 2893.3322ms
+2021-06-25 22:55:36.328.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.AccountController.Login (HotelListing)'
+2021-06-25 22:55:36.332.-04:00 [INF] Request finished HTTP/1.1 POST https://localhost:5001/api/Account/login application/json-patch+json 55 - 500 245 application/problem+json;+charset=utf-8 2984.2856ms
+2021-06-25 22:56:09.897.-04:00 [INF] Request starting HTTP/1.1 POST https://localhost:5001/api/Account/login application/json-patch+json 55
+2021-06-25 22:56:09.898.-04:00 [INF] CORS policy execution successful.
+2021-06-25 22:56:09.902.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.AccountController.Login (HotelListing)'
+2021-06-25 22:56:09.902.-04:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(HotelListing.Models.LoginUserDTO) on controller HotelListing.Controllers.AccountController (HotelListing).
+2021-06-25 22:56:09.906.-04:00 [INF] Login Attempt for user2@hotels.com
+2021-06-25 22:56:09.933.-04:00 [INF] Entity Framework Core 5.0.7 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-25 22:56:09.939.-04:00 [INF] Executed DbCommand (3ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2021-06-25 22:57:09.081.-04:00 [INF] Executed DbCommand (58ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2021-06-25 22:58:02.296.-04:00 [ERR] Something went wrong in the Login
+System.ArgumentOutOfRangeException: IDX10653: The encryption algorithm 'System.String' requires a key size of at least 'System.Int32' bits. Key 'Microsoft.IdentityModel.Tokens.SymmetricSecurityKey', is of size: 'System.Int32'. (Parameter 'key')
+   at Microsoft.IdentityModel.Tokens.SymmetricSignatureProvider..ctor(SecurityKey key, String algorithm, Boolean willCreateSignatures)
+   at Microsoft.IdentityModel.Tokens.CryptoProviderFactory.CreateSignatureProvider(SecurityKey key, String algorithm, Boolean willCreateSignatures, Boolean cacheProvider)
+   at Microsoft.IdentityModel.Tokens.CryptoProviderFactory.CreateForSigning(SecurityKey key, String algorithm, Boolean cacheProvider)
+   at Microsoft.IdentityModel.Tokens.CryptoProviderFactory.CreateForSigning(SecurityKey key, String algorithm)
+   at Microsoft.IdentityModel.JsonWebTokens.JwtTokenUtilities.CreateEncodedSignature(String input, SigningCredentials signingCredentials)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.WriteToken(SecurityToken token)
+   at HotelListing.Services.AuthManager.CreateToken() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Services/AuthManager.cs:line 39
+   at HotelListing.Controllers.AccountController.Login(LoginUserDTO userDTO) in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Controllers/AccountController.cs:line 109
+2021-06-25 22:58:02.300.-04:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2021-06-25 22:58:02.300.-04:00 [INF] Executed action HotelListing.Controllers.AccountController.Login (HotelListing) in 112397.47ms
+2021-06-25 22:58:02.300.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.AccountController.Login (HotelListing)'
+2021-06-25 22:58:02.300.-04:00 [INF] Request finished HTTP/1.1 POST https://localhost:5001/api/Account/login application/json-patch+json 55 - 500 245 application/problem+json;+charset=utf-8 112426.3533ms
+2021-06-25 22:58:17.975.-04:00 [INF] Request starting HTTP/1.1 POST https://localhost:5001/api/Account/login application/json-patch+json 55
+2021-06-25 22:58:17.976.-04:00 [INF] CORS policy execution successful.
+2021-06-25 22:58:17.976.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.AccountController.Login (HotelListing)'
+2021-06-25 22:58:17.976.-04:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(HotelListing.Models.LoginUserDTO) on controller HotelListing.Controllers.AccountController (HotelListing).
+2021-06-25 22:58:17.984.-04:00 [INF] Login Attempt for user2@hotels.com
+2021-06-25 22:58:17.990.-04:00 [INF] Entity Framework Core 5.0.7 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-25 22:58:18.046.-04:00 [INF] Executed DbCommand (55ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2021-06-25 23:00:58.815.-04:00 [INF] Application is Starting
+2021-06-25 23:01:00.061.-04:00 [INF] User profile is available. Using '/Users/marksweitzer/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2021-06-25 23:01:00.493.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-25 23:01:00.493.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-25 23:01:00.493.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-25 23:01:00.494.-04:00 [INF] Hosting environment: Development
+2021-06-25 23:01:00.494.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-25 23:01:01.725.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-25 23:01:01.819.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 96.4205ms
+2021-06-25 23:01:02.029.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-25 23:01:02.118.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 88.8465ms
+2021-06-25 23:01:24.106.-04:00 [INF] Request starting HTTP/1.1 POST https://localhost:5001/api/Account/login application/json-patch+json 55
+2021-06-25 23:01:24.112.-04:00 [INF] CORS policy execution successful.
+2021-06-25 23:01:24.142.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.AccountController.Login (HotelListing)'
+2021-06-25 23:01:24.180.-04:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(HotelListing.Models.LoginUserDTO) on controller HotelListing.Controllers.AccountController (HotelListing).
+2021-06-25 23:01:24.638.-04:00 [INF] Login Attempt for user2@hotels.com
+2021-06-25 23:01:25.271.-04:00 [INF] Entity Framework Core 5.0.7 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-25 23:01:25.922.-04:00 [INF] Executed DbCommand (46ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2021-06-25 23:02:12.270.-04:00 [INF] Executed DbCommand (5ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2021-06-25 23:07:45.211.-04:00 [INF] Application is Starting
+2021-06-25 23:07:46.571.-04:00 [INF] User profile is available. Using '/Users/marksweitzer/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2021-06-25 23:07:47.030.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-25 23:07:47.030.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-25 23:07:47.030.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-25 23:07:47.030.-04:00 [INF] Hosting environment: Development
+2021-06-25 23:07:47.031.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-25 23:07:48.211.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-25 23:07:48.304.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 94.6246ms
+2021-06-25 23:07:48.509.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-25 23:07:48.594.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 85.2891ms
+2021-06-25 23:08:15.903.-04:00 [INF] Request starting HTTP/1.1 POST https://localhost:5001/api/Account/login application/json-patch+json 55
+2021-06-25 23:08:15.909.-04:00 [INF] CORS policy execution successful.
+2021-06-25 23:08:15.937.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.AccountController.Login (HotelListing)'
+2021-06-25 23:08:15.974.-04:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(HotelListing.Models.LoginUserDTO) on controller HotelListing.Controllers.AccountController (HotelListing).
+2021-06-25 23:08:16.416.-04:00 [INF] Login Attempt for user2@hotels.com
+2021-06-25 23:08:17.102.-04:00 [INF] Entity Framework Core 5.0.7 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-25 23:08:17.779.-04:00 [INF] Executed DbCommand (45ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2021-06-25 23:08:26.596.-04:00 [INF] Executed DbCommand (6ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2021-06-25 23:08:32.197.-04:00 [ERR] Something went wrong in the Login
+System.ArgumentOutOfRangeException: IDX10653: The encryption algorithm 'System.String' requires a key size of at least 'System.Int32' bits. Key 'Microsoft.IdentityModel.Tokens.SymmetricSecurityKey', is of size: 'System.Int32'. (Parameter 'key')
+   at Microsoft.IdentityModel.Tokens.SymmetricSignatureProvider..ctor(SecurityKey key, String algorithm, Boolean willCreateSignatures)
+   at Microsoft.IdentityModel.Tokens.CryptoProviderFactory.CreateSignatureProvider(SecurityKey key, String algorithm, Boolean willCreateSignatures, Boolean cacheProvider)
+   at Microsoft.IdentityModel.Tokens.CryptoProviderFactory.CreateForSigning(SecurityKey key, String algorithm, Boolean cacheProvider)
+   at Microsoft.IdentityModel.Tokens.CryptoProviderFactory.CreateForSigning(SecurityKey key, String algorithm)
+   at Microsoft.IdentityModel.JsonWebTokens.JwtTokenUtilities.CreateEncodedSignature(String input, SigningCredentials signingCredentials)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.WriteToken(SecurityToken token)
+   at HotelListing.Services.AuthManager.CreateToken() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Services/AuthManager.cs:line 39
+   at HotelListing.Controllers.AccountController.Login(LoginUserDTO userDTO) in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Controllers/AccountController.cs:line 109
+2021-06-25 23:08:32.254.-04:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2021-06-25 23:08:32.305.-04:00 [INF] Executed action HotelListing.Controllers.AccountController.Login (HotelListing) in 16326.6871ms
+2021-06-25 23:08:32.306.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.AccountController.Login (HotelListing)'
+2021-06-25 23:08:32.310.-04:00 [INF] Request finished HTTP/1.1 POST https://localhost:5001/api/Account/login application/json-patch+json 55 - 500 245 application/problem+json;+charset=utf-8 16406.9145ms
+2021-06-25 23:08:50.018.-04:00 [INF] Request starting HTTP/1.1 POST https://localhost:5001/api/Account/login application/json-patch+json 55
+2021-06-25 23:08:50.018.-04:00 [INF] CORS policy execution successful.
+2021-06-25 23:08:50.022.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.AccountController.Login (HotelListing)'
+2021-06-25 23:08:50.022.-04:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(HotelListing.Models.LoginUserDTO) on controller HotelListing.Controllers.AccountController (HotelListing).
+2021-06-25 23:08:50.023.-04:00 [INF] Login Attempt for user2@hotels.com
+2021-06-25 23:08:50.049.-04:00 [INF] Entity Framework Core 5.0.7 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-25 23:08:50.078.-04:00 [INF] Executed DbCommand (26ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2021-06-25 23:09:03.955.-04:00 [INF] Executed DbCommand (3ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2021-06-25 23:10:56.651.-04:00 [ERR] Something went wrong in the Login
+System.ArgumentOutOfRangeException: IDX10653: The encryption algorithm 'System.String' requires a key size of at least 'System.Int32' bits. Key 'Microsoft.IdentityModel.Tokens.SymmetricSecurityKey', is of size: 'System.Int32'. (Parameter 'key')
+   at Microsoft.IdentityModel.Tokens.SymmetricSignatureProvider..ctor(SecurityKey key, String algorithm, Boolean willCreateSignatures)
+   at Microsoft.IdentityModel.Tokens.CryptoProviderFactory.CreateSignatureProvider(SecurityKey key, String algorithm, Boolean willCreateSignatures, Boolean cacheProvider)
+   at Microsoft.IdentityModel.Tokens.CryptoProviderFactory.CreateForSigning(SecurityKey key, String algorithm, Boolean cacheProvider)
+   at Microsoft.IdentityModel.Tokens.CryptoProviderFactory.CreateForSigning(SecurityKey key, String algorithm)
+   at Microsoft.IdentityModel.JsonWebTokens.JwtTokenUtilities.CreateEncodedSignature(String input, SigningCredentials signingCredentials)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.WriteToken(SecurityToken token)
+   at HotelListing.Services.AuthManager.CreateToken() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Services/AuthManager.cs:line 39
+   at HotelListing.Controllers.AccountController.Login(LoginUserDTO userDTO) in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Controllers/AccountController.cs:line 109
+2021-06-25 23:10:56.652.-04:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2021-06-25 23:10:56.653.-04:00 [INF] Executed action HotelListing.Controllers.AccountController.Login (HotelListing) in 126627.6714ms
+2021-06-25 23:10:56.653.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.AccountController.Login (HotelListing)'
+2021-06-25 23:10:56.653.-04:00 [INF] Request finished HTTP/1.1 POST https://localhost:5001/api/Account/login application/json-patch+json 55 - 500 245 application/problem+json;+charset=utf-8 126631.9001ms
+2021-06-25 23:11:03.993.-04:00 [INF] Application is Starting
+2021-06-25 23:11:05.330.-04:00 [INF] User profile is available. Using '/Users/marksweitzer/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2021-06-25 23:11:05.771.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-25 23:11:05.771.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-25 23:11:05.772.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-25 23:11:05.772.-04:00 [INF] Hosting environment: Development
+2021-06-25 23:11:05.772.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-25 23:11:06.952.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-25 23:11:07.054.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 104.3014ms
+2021-06-25 23:11:07.297.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-25 23:11:07.384.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 86.8399ms
+2021-06-25 23:11:30.901.-04:00 [INF] Request starting HTTP/1.1 POST https://localhost:5001/api/Account/login application/json-patch+json 55
+2021-06-25 23:11:30.906.-04:00 [INF] CORS policy execution successful.
+2021-06-25 23:11:30.930.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.AccountController.Login (HotelListing)'
+2021-06-25 23:11:30.961.-04:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(HotelListing.Models.LoginUserDTO) on controller HotelListing.Controllers.AccountController (HotelListing).
+2021-06-25 23:11:31.417.-04:00 [INF] Login Attempt for user2@hotels.com
+2021-06-25 23:11:32.111.-04:00 [INF] Entity Framework Core 5.0.7 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-25 23:11:32.744.-04:00 [INF] Executed DbCommand (50ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2021-06-25 23:11:46.099.-04:00 [INF] Executed DbCommand (4ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2021-06-25 23:12:36.409.-04:00 [ERR] Something went wrong in the Login
+System.ArgumentOutOfRangeException: IDX10653: The encryption algorithm 'System.String' requires a key size of at least 'System.Int32' bits. Key 'Microsoft.IdentityModel.Tokens.SymmetricSecurityKey', is of size: 'System.Int32'. (Parameter 'key')
+   at Microsoft.IdentityModel.Tokens.SymmetricSignatureProvider..ctor(SecurityKey key, String algorithm, Boolean willCreateSignatures)
+   at Microsoft.IdentityModel.Tokens.CryptoProviderFactory.CreateSignatureProvider(SecurityKey key, String algorithm, Boolean willCreateSignatures, Boolean cacheProvider)
+   at Microsoft.IdentityModel.Tokens.CryptoProviderFactory.CreateForSigning(SecurityKey key, String algorithm, Boolean cacheProvider)
+   at Microsoft.IdentityModel.Tokens.CryptoProviderFactory.CreateForSigning(SecurityKey key, String algorithm)
+   at Microsoft.IdentityModel.JsonWebTokens.JwtTokenUtilities.CreateEncodedSignature(String input, SigningCredentials signingCredentials)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.WriteToken(SecurityToken token)
+   at HotelListing.Services.AuthManager.CreateToken() in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Services/AuthManager.cs:line 39
+   at HotelListing.Controllers.AccountController.Login(LoginUserDTO userDTO) in /Users/marksweitzer/Sites/c#/HotelListing/HotelListing/Controllers/AccountController.cs:line 109
+2021-06-25 23:12:36.483.-04:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2021-06-25 23:12:36.536.-04:00 [INF] Executed action HotelListing.Controllers.AccountController.Login (HotelListing) in 65568.9632ms
+2021-06-25 23:12:36.537.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.AccountController.Login (HotelListing)'
+2021-06-25 23:12:36.542.-04:00 [INF] Request finished HTTP/1.1 POST https://localhost:5001/api/Account/login application/json-patch+json 55 - 500 245 application/problem+json;+charset=utf-8 65638.4457ms
+2021-06-25 23:12:53.288.-04:00 [INF] Request starting HTTP/1.1 POST https://localhost:5001/api/Account/login application/json-patch+json 55
+2021-06-25 23:12:53.337.-04:00 [INF] CORS policy execution successful.
+2021-06-25 23:12:53.340.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.AccountController.Login (HotelListing)'
+2021-06-25 23:12:53.340.-04:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(HotelListing.Models.LoginUserDTO) on controller HotelListing.Controllers.AccountController (HotelListing).
+2021-06-25 23:12:53.342.-04:00 [INF] Login Attempt for user2@hotels.com
+2021-06-25 23:12:53.367.-04:00 [INF] Entity Framework Core 5.0.7 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-25 23:12:53.373.-04:00 [INF] Executed DbCommand (3ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2021-06-25 23:13:06.022.-04:00 [INF] Executed DbCommand (2ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2021-06-25 23:18:11.588.-04:00 [INF] Application is Starting
+2021-06-25 23:18:12.908.-04:00 [INF] User profile is available. Using '/Users/marksweitzer/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2021-06-25 23:18:13.324.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-25 23:18:13.324.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-25 23:18:13.325.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-25 23:18:13.325.-04:00 [INF] Hosting environment: Development
+2021-06-25 23:18:13.325.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-25 23:18:14.574.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-25 23:18:14.663.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 90.6945ms
+2021-06-25 23:18:14.897.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-25 23:18:14.987.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 89.8052ms
+2021-06-25 23:18:34.975.-04:00 [INF] Request starting HTTP/1.1 POST https://localhost:5001/api/Account/login application/json-patch+json 55
+2021-06-25 23:18:34.981.-04:00 [INF] CORS policy execution successful.
+2021-06-25 23:18:35.016.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.AccountController.Login (HotelListing)'
+2021-06-25 23:18:35.050.-04:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(HotelListing.Models.LoginUserDTO) on controller HotelListing.Controllers.AccountController (HotelListing).
+2021-06-25 23:18:35.519.-04:00 [INF] Login Attempt for user2@hotels.com
+2021-06-25 23:18:36.150.-04:00 [INF] Entity Framework Core 5.0.7 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-25 23:18:36.789.-04:00 [INF] Executed DbCommand (45ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2021-06-25 23:18:42.693.-04:00 [INF] Executed DbCommand (4ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2021-06-25 23:18:44.350.-04:00 [INF] Executing AcceptedResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2021-06-25 23:18:44.389.-04:00 [INF] Executed action HotelListing.Controllers.AccountController.Login (HotelListing) in 9335.3656ms
+2021-06-25 23:18:44.390.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.AccountController.Login (HotelListing)'
+2021-06-25 23:18:44.395.-04:00 [INF] Request finished HTTP/1.1 POST https://localhost:5001/api/Account/login application/json-patch+json 55 - 202 349 application/json;+charset=utf-8 9419.3709ms
+2021-06-25 23:23:12.086.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Hotel/ - -
+2021-06-25 23:23:12.089.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.HotelController.GetHotels (HotelListing)'
+2021-06-25 23:23:12.093.-04:00 [INF] Route matched with {action = "GetHotels", controller = "Hotel"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetHotels() on controller HotelListing.Controllers.HotelController (HotelListing).
+2021-06-25 23:23:12.123.-04:00 [INF] Entity Framework Core 5.0.7 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-25 23:23:12.138.-04:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [h].[Id], [h].[Address], [h].[CountryId], [h].[Name], [h].[Rating]
+FROM [Hotels] AS [h]
+2021-06-25 23:23:12.169.-04:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[HotelListing.Models.HotelDTO, HotelListing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2021-06-25 23:23:12.182.-04:00 [INF] Executed action HotelListing.Controllers.HotelController.GetHotels (HotelListing) in 88.5445ms
+2021-06-25 23:23:12.182.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.HotelController.GetHotels (HotelListing)'
+2021-06-25 23:23:12.183.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Hotel/ - - - 200 198 application/json;+charset=utf-8 97.2354ms
+2021-06-25 23:24:16.075.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Hotel/1 - -
+2021-06-25 23:24:16.077.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.HotelController.GetHotel (HotelListing)'
+2021-06-25 23:24:16.081.-04:00 [INF] Route matched with {action = "GetHotel", controller = "Hotel"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetHotel(Int32) on controller HotelListing.Controllers.HotelController (HotelListing).
+2021-06-25 23:24:16.095.-04:00 [INF] Entity Framework Core 5.0.7 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-25 23:24:16.106.-04:00 [INF] Executed DbCommand (4ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [h].[Id], [h].[Address], [h].[CountryId], [h].[Name], [h].[Rating]
+FROM [Hotels] AS [h]
+WHERE [h].[Id] = @__id_0
+2021-06-25 23:24:16.110.-04:00 [INF] Executing OkObjectResult, writing value of type 'HotelListing.Models.HotelDTO'.
+2021-06-25 23:24:16.111.-04:00 [INF] Executed action HotelListing.Controllers.HotelController.GetHotel (HotelListing) in 29.2665ms
+2021-06-25 23:24:16.111.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.HotelController.GetHotel (HotelListing)'
+2021-06-25 23:24:16.111.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Hotel/1 - - - 200 72 application/json;+charset=utf-8 35.8167ms
+2021-06-25 23:24:26.123.-04:00 [INF] Application is Starting
+2021-06-25 23:24:27.451.-04:00 [INF] User profile is available. Using '/Users/marksweitzer/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2021-06-25 23:24:27.925.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-25 23:24:27.925.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-25 23:24:27.926.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-25 23:24:27.926.-04:00 [INF] Hosting environment: Development
+2021-06-25 23:24:27.926.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-25 23:24:29.118.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-25 23:24:29.225.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 108.6956ms
+2021-06-25 23:24:29.437.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-25 23:24:29.524.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 87.0107ms
+2021-06-25 23:24:33.843.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Hotel/2 - -
+2021-06-25 23:24:33.880.-04:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2021-06-25 23:24:33.994.-04:00 [INF] AuthenticationScheme: Bearer was challenged.
+2021-06-25 23:24:33.994.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Hotel/2 - - - 401 0 - 150.9866ms
+2021-06-25 23:27:25.495.-04:00 [INF] Request starting HTTP/1.1 POST https://localhost:5001/api/user/login?email=user2@hotels.com&password=Risdesign063%23 - 0
+2021-06-25 23:27:25.502.-04:00 [INF] Request finished HTTP/1.1 POST https://localhost:5001/api/user/login?email=user2@hotels.com&password=Risdesign063%23 - 0 - 404 0 - 7.0172ms
+2021-06-25 23:29:52.593.-04:00 [INF] Request starting HTTP/1.1 POST https://localhost:5001/api/Account/login application/json-patch+json 55
+2021-06-25 23:29:52.597.-04:00 [INF] CORS policy execution successful.
+2021-06-25 23:29:52.598.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.AccountController.Login (HotelListing)'
+2021-06-25 23:29:52.626.-04:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(HotelListing.Models.LoginUserDTO) on controller HotelListing.Controllers.AccountController (HotelListing).
+2021-06-25 23:29:53.112.-04:00 [INF] Login Attempt for user2@hotels.com
+2021-06-25 23:29:53.834.-04:00 [INF] Entity Framework Core 5.0.7 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-25 23:29:54.540.-04:00 [INF] Executed DbCommand (67ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2021-06-25 23:30:08.523.-04:00 [INF] Executed DbCommand (4ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2021-06-25 23:30:08.618.-04:00 [INF] Executing AcceptedResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2021-06-25 23:30:08.653.-04:00 [INF] Executed action HotelListing.Controllers.AccountController.Login (HotelListing) in 16022.333ms
+2021-06-25 23:30:08.653.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.AccountController.Login (HotelListing)'
+2021-06-25 23:30:08.659.-04:00 [INF] Request finished HTTP/1.1 POST https://localhost:5001/api/Account/login application/json-patch+json 55 - 202 349 application/json;+charset=utf-8 16065.8257ms
+2021-06-25 23:30:44.632.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Hotel/1 - -
+2021-06-25 23:30:44.633.-04:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2021-06-25 23:30:44.739.-04:00 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenInvalidAudienceException: IDX10208: Unable to validate audience. validationParameters.ValidAudience is null or whitespace and validationParameters.ValidAudiences is null.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateAudience(IEnumerable`1 audiences, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateAudience(IEnumerable`1 audiences, JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2021-06-25 23:30:44.785.-04:00 [INF] AuthenticationScheme: Bearer was challenged.
+2021-06-25 23:30:44.785.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Hotel/1 - - - 401 0 - 152.9589ms
+2021-06-25 23:32:06.665.-04:00 [INF] Application is Starting
+2021-06-25 23:32:08.051.-04:00 [INF] User profile is available. Using '/Users/marksweitzer/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2021-06-25 23:32:08.521.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-25 23:32:08.521.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-25 23:32:08.521.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-25 23:32:08.521.-04:00 [INF] Hosting environment: Development
+2021-06-25 23:32:08.521.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-25 23:32:09.723.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-25 23:32:09.829.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 107.3275ms
+2021-06-25 23:32:10.071.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-25 23:32:10.164.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 90.5204ms
+2021-06-25 23:33:02.603.-04:00 [INF] Request starting HTTP/1.1 POST https://localhost:5001/api/Account/login application/json-patch+json 55
+2021-06-25 23:33:02.609.-04:00 [INF] CORS policy execution successful.
+2021-06-25 23:33:02.805.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.AccountController.Login (HotelListing)'
+2021-06-25 23:33:02.843.-04:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(HotelListing.Models.LoginUserDTO) on controller HotelListing.Controllers.AccountController (HotelListing).
+2021-06-25 23:33:03.306.-04:00 [INF] Login Attempt for user2@hotels.com
+2021-06-25 23:33:03.949.-04:00 [INF] Entity Framework Core 5.0.7 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-25 23:33:04.554.-04:00 [INF] Executed DbCommand (49ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2021-06-25 23:33:04.716.-04:00 [INF] Executed DbCommand (4ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2021-06-25 23:33:04.805.-04:00 [INF] Executing AcceptedResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2021-06-25 23:33:04.839.-04:00 [INF] Executed action HotelListing.Controllers.AccountController.Login (HotelListing) in 1991.6654ms
+2021-06-25 23:33:04.840.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.AccountController.Login (HotelListing)'
+2021-06-25 23:33:04.844.-04:00 [INF] Request finished HTTP/1.1 POST https://localhost:5001/api/Account/login application/json-patch+json 55 - 202 349 application/json;+charset=utf-8 2240.7275ms
+2021-06-25 23:33:16.249.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Hotel/1 - -
+2021-06-25 23:33:16.301.-04:00 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenInvalidAudienceException: IDX10208: Unable to validate audience. validationParameters.ValidAudience is null or whitespace and validationParameters.ValidAudiences is null.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateAudience(IEnumerable`1 audiences, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateAudience(IEnumerable`1 audiences, JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2021-06-25 23:33:16.334.-04:00 [INF] Bearer was not authenticated. Failure message: IDX10208: Unable to validate audience. validationParameters.ValidAudience is null or whitespace and validationParameters.ValidAudiences is null.
+2021-06-25 23:33:16.339.-04:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2021-06-25 23:33:16.346.-04:00 [INF] AuthenticationScheme: Bearer was challenged.
+2021-06-25 23:33:16.347.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Hotel/1 - - - 401 0 - 97.8098ms
+2021-06-25 23:34:03.532.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Hotel/1 - -
+2021-06-25 23:34:03.534.-04:00 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenInvalidAudienceException: IDX10208: Unable to validate audience. validationParameters.ValidAudience is null or whitespace and validationParameters.ValidAudiences is null.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateAudience(IEnumerable`1 audiences, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateAudience(IEnumerable`1 audiences, JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2021-06-25 23:34:03.534.-04:00 [INF] Bearer was not authenticated. Failure message: IDX10208: Unable to validate audience. validationParameters.ValidAudience is null or whitespace and validationParameters.ValidAudiences is null.
+2021-06-25 23:34:03.535.-04:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2021-06-25 23:34:03.563.-04:00 [INF] AuthenticationScheme: Bearer was challenged.
+2021-06-25 23:34:03.563.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Hotel/1 - - - 401 0 - 31.1586ms
+2021-06-25 23:35:17.045.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Hotel/1 - -
+2021-06-25 23:35:17.046.-04:00 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenInvalidAudienceException: IDX10208: Unable to validate audience. validationParameters.ValidAudience is null or whitespace and validationParameters.ValidAudiences is null.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateAudience(IEnumerable`1 audiences, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateAudience(IEnumerable`1 audiences, JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2021-06-25 23:35:17.046.-04:00 [INF] Bearer was not authenticated. Failure message: IDX10208: Unable to validate audience. validationParameters.ValidAudience is null or whitespace and validationParameters.ValidAudiences is null.
+2021-06-25 23:35:17.047.-04:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2021-06-25 23:35:17.047.-04:00 [INF] AuthenticationScheme: Bearer was challenged.
+2021-06-25 23:35:17.047.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Hotel/1 - - - 401 0 - 2.1482ms
+2021-06-25 23:35:52.580.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Hotel/1 - -
+2021-06-25 23:35:52.580.-04:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2021-06-25 23:35:52.580.-04:00 [INF] AuthenticationScheme: Bearer was challenged.
+2021-06-25 23:35:52.580.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Hotel/1 - - - 401 0 - 0.4708ms
+2021-06-25 23:35:57.178.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Hotel/1 - -
+2021-06-25 23:35:57.178.-04:00 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenInvalidAudienceException: IDX10208: Unable to validate audience. validationParameters.ValidAudience is null or whitespace and validationParameters.ValidAudiences is null.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateAudience(IEnumerable`1 audiences, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateAudience(IEnumerable`1 audiences, JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2021-06-25 23:35:57.178.-04:00 [INF] Bearer was not authenticated. Failure message: IDX10208: Unable to validate audience. validationParameters.ValidAudience is null or whitespace and validationParameters.ValidAudiences is null.
+2021-06-25 23:35:57.178.-04:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2021-06-25 23:35:57.178.-04:00 [INF] AuthenticationScheme: Bearer was challenged.
+2021-06-25 23:35:57.178.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Hotel/1 - - - 401 0 - 0.8445ms
+2021-06-25 23:37:24.490.-04:00 [INF] Application is Starting
+2021-06-25 23:37:25.762.-04:00 [INF] User profile is available. Using '/Users/marksweitzer/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2021-06-25 23:37:26.188.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-25 23:37:26.188.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-25 23:37:26.188.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-25 23:37:26.188.-04:00 [INF] Hosting environment: Development
+2021-06-25 23:37:26.188.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-25 23:37:27.478.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-25 23:37:27.571.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 95.6113ms
+2021-06-25 23:37:27.608.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-bundle.js - -
+2021-06-25 23:37:27.613.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui.css - -
+2021-06-25 23:37:27.699.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js - -
+2021-06-25 23:37:27.806.-04:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2021-06-25 23:37:27.806.-04:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2021-06-25 23:37:27.806.-04:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2021-06-25 23:37:27.808.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 199.5303ms
+2021-06-25 23:37:27.808.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 109.4303ms
+2021-06-25 23:37:27.808.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/swagger-ui.css - - - 200 142933 text/css 194.7149ms
+2021-06-25 23:37:27.961.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-25 23:37:28.042.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 81.4326ms
+2021-06-25 23:37:54.385.-04:00 [INF] Request starting HTTP/1.1 POST https://localhost:5001/api/Account/login application/json-patch+json 55
+2021-06-25 23:37:54.389.-04:00 [INF] CORS policy execution successful.
+2021-06-25 23:37:54.581.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.AccountController.Login (HotelListing)'
+2021-06-25 23:37:54.618.-04:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(HotelListing.Models.LoginUserDTO) on controller HotelListing.Controllers.AccountController (HotelListing).
+2021-06-25 23:37:55.034.-04:00 [INF] Login Attempt for user2@hotels.com
+2021-06-25 23:37:55.693.-04:00 [INF] Entity Framework Core 5.0.7 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-25 23:37:56.325.-04:00 [INF] Executed DbCommand (51ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2021-06-25 23:37:56.475.-04:00 [INF] Executed DbCommand (4ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2021-06-25 23:37:56.557.-04:00 [INF] Executing AcceptedResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2021-06-25 23:37:56.591.-04:00 [INF] Executed action HotelListing.Controllers.AccountController.Login (HotelListing) in 1969.3924ms
+2021-06-25 23:37:56.592.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.AccountController.Login (HotelListing)'
+2021-06-25 23:37:56.595.-04:00 [INF] Request finished HTTP/1.1 POST https://localhost:5001/api/Account/login application/json-patch+json 55 - 202 349 application/json;+charset=utf-8 2210.5858ms
+2021-06-25 23:38:20.688.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Hotel/1 - -
+2021-06-25 23:38:20.736.-04:00 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2021-06-25 23:38:20.768.-04:00 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'.
+2021-06-25 23:38:20.772.-04:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2021-06-25 23:38:20.779.-04:00 [INF] AuthenticationScheme: Bearer was challenged.
+2021-06-25 23:38:20.780.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Hotel/1 - - - 401 0 - 92.0746ms
+2021-06-25 23:39:55.461.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Hotel/2 - -
+2021-06-25 23:39:55.462.-04:00 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2021-06-25 23:39:55.463.-04:00 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'.
+2021-06-25 23:39:55.463.-04:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2021-06-25 23:39:55.490.-04:00 [INF] AuthenticationScheme: Bearer was challenged.
+2021-06-25 23:39:55.491.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Hotel/2 - - - 401 0 - 29.6798ms
+2021-06-25 23:40:22.375.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Hotel/2 - -
+2021-06-25 23:40:22.376.-04:00 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2021-06-25 23:40:22.376.-04:00 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'.
+2021-06-25 23:40:22.377.-04:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2021-06-25 23:40:22.377.-04:00 [INF] AuthenticationScheme: Bearer was challenged.
+2021-06-25 23:40:22.377.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Hotel/2 - - - 401 0 - 1.9616ms
+2021-06-25 23:40:36.945.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Country/1 - -
+2021-06-25 23:40:36.946.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.CountryController.GetCountry (HotelListing)'
+2021-06-25 23:40:36.950.-04:00 [INF] Route matched with {action = "GetCountry", controller = "Country"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCountry(Int32) on controller HotelListing.Controllers.CountryController (HotelListing).
+2021-06-25 23:40:36.982.-04:00 [INF] Entity Framework Core 5.0.7 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-25 23:40:37.068.-04:00 [INF] Executed DbCommand (9ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [t].[Id], [t].[Name], [t].[ShortName], [h].[Id], [h].[Address], [h].[CountryId], [h].[Name], [h].[Rating]
+FROM (
+    SELECT TOP(1) [c].[Id], [c].[Name], [c].[ShortName]
+    FROM [Countries] AS [c]
+    WHERE [c].[Id] = @__id_0
+) AS [t]
+LEFT JOIN [Hotels] AS [h] ON [t].[Id] = [h].[CountryId]
+ORDER BY [t].[Id], [h].[Id]
+2021-06-25 23:40:37.103.-04:00 [INF] Executing OkObjectResult, writing value of type 'HotelListing.Models.CountryDTO'.
+2021-06-25 23:40:37.116.-04:00 [INF] Executed action HotelListing.Controllers.CountryController.GetCountry (HotelListing) in 165.4626ms
+2021-06-25 23:40:37.116.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.CountryController.GetCountry (HotelListing)'
+2021-06-25 23:40:37.117.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Country/1 - - - 200 111 application/json;+charset=utf-8 171.0508ms
+2021-06-25 23:46:23.206.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Hotel/2 - -
+2021-06-25 23:46:23.206.-04:00 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2021-06-25 23:46:23.207.-04:00 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'.
+2021-06-25 23:46:23.207.-04:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2021-06-25 23:46:23.207.-04:00 [INF] AuthenticationScheme: Bearer was challenged.
+2021-06-25 23:46:23.207.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Hotel/2 - - - 401 0 - 1.0874ms
+2021-06-25 23:48:23.613.-04:00 [INF] Application is Starting
+2021-06-25 23:48:24.964.-04:00 [INF] User profile is available. Using '/Users/marksweitzer/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2021-06-25 23:48:25.422.-04:00 [INF] Now listening on: https://localhost:5001
+2021-06-25 23:48:25.422.-04:00 [INF] Now listening on: http://localhost:5000
+2021-06-25 23:48:25.422.-04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-06-25 23:48:25.422.-04:00 [INF] Hosting environment: Development
+2021-06-25 23:48:25.422.-04:00 [INF] Content root path: /Users/marksweitzer/Sites/c#/HotelListing/HotelListing
+2021-06-25 23:48:26.687.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/index.html - -
+2021-06-25 23:48:26.778.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 92.5991ms
+2021-06-25 23:48:27.047.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - -
+2021-06-25 23:48:27.143.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 95.4550ms
+2021-06-25 23:49:11.669.-04:00 [INF] Request starting HTTP/1.1 POST https://localhost:5001/api/Account/login application/json-patch+json 55
+2021-06-25 23:49:11.675.-04:00 [INF] CORS policy execution successful.
+2021-06-25 23:49:11.798.-04:00 [INF] Executing endpoint 'HotelListing.Controllers.AccountController.Login (HotelListing)'
+2021-06-25 23:49:11.835.-04:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(HotelListing.Models.LoginUserDTO) on controller HotelListing.Controllers.AccountController (HotelListing).
+2021-06-25 23:49:12.310.-04:00 [INF] Login Attempt for user2@hotels.com
+2021-06-25 23:49:12.979.-04:00 [INF] Entity Framework Core 5.0.7 initialized 'DatabaseContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+2021-06-25 23:49:13.630.-04:00 [INF] Executed DbCommand (51ms) [Parameters=[@__normalizedEmail_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[FirstName], [a].[LastName], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedEmail] = @__normalizedEmail_0
+2021-06-25 23:49:13.804.-04:00 [INF] Executed DbCommand (4ms) [Parameters=[@__userId_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2021-06-25 23:49:13.922.-04:00 [INF] Executing AcceptedResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2021-06-25 23:49:13.956.-04:00 [INF] Executed action HotelListing.Controllers.AccountController.Login (HotelListing) in 2117.2024ms
+2021-06-25 23:49:13.957.-04:00 [INF] Executed endpoint 'HotelListing.Controllers.AccountController.Login (HotelListing)'
+2021-06-25 23:49:13.961.-04:00 [INF] Request finished HTTP/1.1 POST https://localhost:5001/api/Account/login application/json-patch+json 55 - 202 349 application/json;+charset=utf-8 2291.5833ms
+2021-06-25 23:49:41.597.-04:00 [INF] Request starting HTTP/1.1 GET https://localhost:5001/api/Hotel/2 - -
+2021-06-25 23:49:41.650.-04:00 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenInvalidAudienceException: IDX10208: Unable to validate audience. validationParameters.ValidAudience is null or whitespace and validationParameters.ValidAudiences is null.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateAudience(IEnumerable`1 audiences, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateAudience(IEnumerable`1 audiences, JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2021-06-25 23:49:41.685.-04:00 [INF] Bearer was not authenticated. Failure message: IDX10208: Unable to validate audience. validationParameters.ValidAudience is null or whitespace and validationParameters.ValidAudiences is null.
+2021-06-25 23:49:41.689.-04:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2021-06-25 23:49:41.697.-04:00 [INF] AuthenticationScheme: Bearer was challenged.
+2021-06-25 23:49:41.697.-04:00 [INF] Request finished HTTP/1.1 GET https://localhost:5001/api/Hotel/2 - - - 401 0 - 100.2095ms
