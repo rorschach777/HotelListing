@@ -21,12 +21,18 @@ namespace HotelListing.Models
         [Range(1,5)]
         public double Rating { get; set; }
 
-        [Required]
+        //////[Required]
         public int CountryId { get; set; }
 
         // No foreign keys 
 
     }
+    // All this does is inherit, and we're using it for the purposes of making the name clear in the controller. 
+    public class UpdateHotelDTO : CreateHotelDTO
+    {
+
+    }
+
     public class HotelDTO : CreateHotelDTO
     {
         public int Id { get; set; }
